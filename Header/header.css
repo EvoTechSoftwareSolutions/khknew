@@ -31,12 +31,12 @@ body {
 
 
 .sec1--div2 {
-    width: 18%;
-  
+    width: 15%;
+
 }
 
 .logo {
-    width: 8rem;
+    width: 7rem;
     margin-left: 2rem;
 }
 
@@ -53,14 +53,15 @@ body {
     text-decoration: none;
     font-family: "poppins_bold";
     color: rgb(255, 255, 255);
-    padding: 1rem;
-    letter-spacing: 0.08rem;
-   font-size: 1.1rem;
+    padding: 0.3rem;
+    /* letter-spacing: 0.08rem; */
+    /* font-size: 1.1rem; */
     
+
 }
 
 .sec1--div4 {
-    width: 10%;
+    width: 14%;
     display: flex;
     /* background-color: rgb(76, 76, 206); */
     justify-content: center;
@@ -72,9 +73,29 @@ body {
     font-family: "poppins_extra";
     color: rgb(255, 255, 255);
     padding: 1rem;
+    /* font-size: 1.1rem; */
     background-color: #E42828;
     border-radius: 38px;
     width: 7rem;
     text-align: center;
-    letter-spacing: 0.08rem;
+    /* letter-spacing: 0.08rem; */
+}
+
+@media screen and (min-width:100px) and (max-width:549px) {
+    .sec1--div1 {
+        display: none;
+    }
+
+}
+@media screen and (min-width:550px)  {
+    .sec1--div1 {
+        display: flex;
+    }
+
+}
+
+@media screen and (min-width:550px) and (max-width:1273px) {
+   
+    
+
 }

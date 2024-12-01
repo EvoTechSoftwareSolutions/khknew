@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "poppins_regular";
+    src: url(../resources/font/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "poppins_bold";
+    src: url(../resources/font/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: "poppins_extra";
+    src: url(../resources/font/Poppins-ExtraBold.ttf);
+}
+
+
+
+body{
+    background-color:#132019 ;
+    margin: 0;
+    padding: 0;
+}
