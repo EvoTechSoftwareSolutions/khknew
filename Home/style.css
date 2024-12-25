@@ -223,6 +223,12 @@ body{
 /* SLIDER BOTTOM WAVE  DESIGN */
 
 
+
+
+
+/* section 2 */
+
+
 .sec2--div2{
     display: flex;
     justify-content: center;
@@ -269,6 +275,29 @@ body{
     margin-left: -21rem;
     
     
+    
   
     
+}
+
+/* section 2 */
+
+
+.sec3--div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 100;
+    position: relative;
+    margin-top: 25rem;
+    color: white;
+
+}
+
+.sec4--div1{
+    width: 100%;
+    background-color: #eee;
+
+    height: 5rem;
 }
