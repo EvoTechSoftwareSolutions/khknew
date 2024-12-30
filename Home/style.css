@@ -256,12 +256,14 @@ body {
 
 .sec2--div2 {
     display: flex;
+    width: 90%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     z-index: 100;
     /* position: absolute; */
     position: relative;
+    margin: auto;
 
 }
 
@@ -293,7 +295,6 @@ body {
 
 .pageimg {
     z-index: 1;
-
     width: 40rem;
     margin-left: -21rem;
     overflow: hidden;
@@ -306,7 +307,7 @@ body {
 
 @media screen and (min-width:1400px) {
     .sec2--div2 {
-        width: 120vh;
+        width: 80%;
         margin: auto;
     }
 }
@@ -490,6 +491,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 2rem;
 
 
 
@@ -643,7 +645,7 @@ body {
 
     .sec4--div8 {
         display: flex;
-        width: 135vh;
+        width: 85%;
         justify-content: flex-end;
         align-items: flex-end;
         margin-bottom: 1rem;
@@ -665,7 +667,7 @@ body {
 }
 
 
-@media screen and (min-width:1400px)and (max-width:2000px) {
+@media screen and (min-width:1400px) {
     .container {
         display: flex;
         flex-direction: row;
@@ -675,7 +677,7 @@ body {
 
     .sec4--div8 {
         display: flex;
-        width: 120vh;
+        width: 58%;
         justify-content: flex-end;
         align-items: flex-end;
         margin-bottom: 2rem;
@@ -707,11 +709,12 @@ body {
 }
 
 .sec5--div2 {
-    width: 100%;
+    width: 90%;
     height: fit-content;
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin: 1rem;
 
 
 
@@ -842,18 +845,19 @@ body {
     .sec5--div10 {
         display: flex;
         flex-direction: column;
-        width: 90%;
+       width: 90%;
         justify-content: center;
         align-items: center;
         margin: auto;
     }
 
     .sec5--div11 {
-        width: 99vh;
+        width: 80%;
         height: fit-content;
         display: flex;
         align-items: start;
         flex-direction: column;
+    
 
     }
 
@@ -886,11 +890,11 @@ body {
         margin: 0.5rem;
         color: #ffffff;
         text-align: justify;
-        width: 70vh;
+        width: 60vh;
     }
 
-    .sec5--div14 {
-        width: 100%;
+    /* .sec5--div14 {
+        width: 90%;
         display: flex;
         flex-direction: row;
         margin-top: 2rem;
@@ -898,7 +902,7 @@ body {
         align-items: center;
 
 
-    }
+    } */
 
     .sec5--div15 {
         display: flex;
@@ -913,11 +917,23 @@ body {
         display: flex;
         flex-direction: row;
         gap: 3rem;
-        width: 130vh;
+        /* width: 80vh; */
         align-items: center;
         justify-content: center;
+        width: 40vh;
+      
 
     }
+
+    .sec5--div19 {
+        display: flex;
+        
+        gap: 3rem;
+      width: 40vh;
+     
+
+    }
+
 
     .sec5--div18 {
         display: flex;
@@ -927,7 +943,7 @@ body {
     }
 
     .sec5--div14 {
-        width: 100%;
+        
         display: flex;
         flex-direction: column;
         margin-top: 2rem;
@@ -937,19 +953,17 @@ body {
 
     }
 
-    .sec5--div19 {
-        display: flex;
-        flex-direction: row-reverse;
-        gap: 3rem;
-        margin-left: 2rem;
+    /* .sec5--img1 {
+        margin-right: auto;
+      
+    } */
 
-    }
-
+  
 
 
 }
 
-@media screen and (min-width:1201px) and (max-width:2000px) {
+@media screen and (min-width:1201px) and (max-width:2950px) {
     .sec5--div1 {
         display: none;
     }
@@ -957,14 +971,15 @@ body {
     .sec5--div10 {
         display: flex;
         flex-direction: column;
-        width: 90%;
+        
         justify-content: center;
         align-items: center;
         margin: auto;
     }
 
     .sec5--div11 {
-        width: 125vh;
+        width: 130vh;
+        margin-left: 1rem;
         height: fit-content;
         display: flex;
         align-items: start;
@@ -1005,24 +1020,23 @@ body {
         color: #ffffff;
         text-align: justify;
         width: 70vh;
+       
+        
     }
 
-    .sec5--div14 {
-        width: 100%;
-        display: flex;
-        flex-direction: row;
-        margin-top: 2rem;
-        justify-content: center;
-        align-items: center;
-
-
+    .sec5--img1 {
+        width: 250px;
+        height: 250px;
+       
     }
+}
 
     .sec5--div15 {
         display: flex;
         flex-direction: column;
         justify-content: center;
-
+      
+     
 
     }
 
@@ -1030,8 +1044,18 @@ body {
         display: flex;
         flex-direction: row;
         gap: 3rem;
-        width: 130vh;
+        width: 120vh
         /* margin-left: 2rem; */
+
+    }
+
+    
+    .sec5--div19 {
+        display: flex;
+        flex-direction: row-reverse;
+        width: 120vh;
+        gap: 3rem;
+       
 
     }
 
@@ -1040,32 +1064,24 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+       
+       
     }
 
     .sec5--div14 {
-        width: 100%;
+        
         display: flex;
         flex-direction: column;
         margin-top: 2rem;
         justify-content: center;
         align-items: center;
         row-gap: 2rem;
+        
 
     }
 
-    .sec5--div19 {
-        display: flex;
-        flex-direction: row-reverse;
-        gap: 3rem;
-        margin-left: 2rem;
 
-    }
-
-    .sec5--img1 {
-        width: 250px;
-        height: 250px;
-    }
-}
+    
 
 
 
@@ -1086,6 +1102,8 @@ body {
   display: flex;
   align-items: start;
   flex-direction: column;
+  margin: 1rem;
+  
  
 
 
@@ -1183,7 +1201,9 @@ body {
 }
 
 .sec6--hr1 {
-  width: 19rem;
+  width: 90%;
+  z-index: 100;
+  position: relative;
 }
 
 .sec6--div8{
@@ -1213,8 +1233,12 @@ body {
 }
 
 
-
-
+@media screen and (min-width:420px) {
+    .sec6-img1 {
+        width: 90%;
+        margin: 1rem;
+      }
+}
 
 
 
