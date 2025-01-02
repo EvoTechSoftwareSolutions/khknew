@@ -1,0 +1,486 @@
+@font-face {
+    font-family: "poppins_regular";
+    src: url(../resources/font/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "poppins_bold";
+    src: url(../resources/font/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: "poppins_extra";
+    src: url(../resources/font/Poppins-ExtraBold.ttf);
+}
+
+
+body {
+    width: 100%;
+    margin: 0;
+    background-color: #132019;
+}
+
+.des--sec1--div1 {
+    width: 100%;
+    display: flex;
+
+
+}
+
+.des--sec1--div2 {
+    display: flex;
+
+    width: 100%;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+}
+
+.des--banner1 {
+    width: 100%;
+    height: 350px;
+    height: fit-content;
+
+}
+
+.des--sec1--div3 {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    position: absolute;
+}
+
+.des--span1 {
+
+    font-family: "poppins_bold";
+    font-size: 7rem;
+    color: white;
+    animation-name: slideInLeft;
+    animation-duration: 1s;
+    animation-timing-function:ease-in ;
+    animation-iteration-count: 1;
+    animation-direction:normal ;
+    animation-fill-mode:both ;
+
+    
+
+}
+
+@keyframes slideInLeft {
+    from {
+        transform: translate(-300px);
+    }
+
+
+    to {
+        transform: translate(0);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* start destination */
+
+.des--sec5--div1 {
+    width: 100%;
+
+
+}
+
+.des--sec5--div2 {
+    width: 90%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+
+
+
+}
+
+.des--sec5--div3 {
+
+    margin-top: 1rem;
+    font-family: "poppins_regular";
+    font-size: 15px;
+    color: #EFBA90;
+}
+
+.des--sec5--div4 {
+    text-align: center;
+    font-family: "poppins_bold";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.des--container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+    /* flex-direction: column; */
+    /* row-gap: 1rem; */
+    column-gap: 1rem;
+    align-items: center;
+
+}
+
+.des--sec5--img1 {
+    width: 180px;
+    height: 180px;
+    border-radius: 60%;
+
+}
+
+.des--sec5--div8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    width: 14rem;
+    height: 33rem;
+    padding: 0.5rem;
+    background-color: #688C6D;
+    border-radius: 10px;
+    /* box-shadow:0 18px 0px 1px #263528; */
+    margin-bottom: 1rem;
+
+
+}
+
+.des--sec5--span1 {
+    font-family: "poppins_bold";
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: #023213;
+}
+
+.des--sec5--span2 {
+    font-family: "poppins_regular";
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0.5rem;
+    color: #023213;
+}
+
+.des--sec5--div10 {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.des--sec5--button1 {
+    background-color: #688c6d00;
+    width: 8rem;
+    height: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "poppins_bold";
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    border: solid 3px #648068;
+    color: #023213;
+}
+
+.des--sec5--button1:disabled {
+    pointer-events: none;
+}
+
+.des--sec5--button1:hover {
+    border: solid 3px #ffffff;
+    color: #ffffff;
+    background-color: #688C6D;
+    box-shadow: #688C6D 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.des--sec5--button1:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+.des--sec5--button1 {
+    text-decoration: none;
+    color: #648068;
+}
+
+.des--sec5--div9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+@media screen and (max-width:899px) {
+    .des--sec5--div10 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:900px) and (max-width:1200px) {
+    .des--sec5--div1 {
+        display: none;
+    }
+
+    .des--sec5--div10 {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .des--sec5--div11 {
+        width: 80%;
+        height: fit-content;
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+
+
+    }
+
+    .des--sec5--div12 {
+
+        margin-top: 1rem;
+        font-family: "poppins_regular";
+        font-size: 15px;
+        color: #EFBA90;
+    }
+
+    .des--sec5--div13 {
+        text-align: center;
+        font-family: "poppins_bold";
+        font-size: 25px;
+        color: #ffffff;
+    }
+
+    .des--sec5--span3 {
+        font-family: "poppins_bold";
+        padding: 0.5rem;
+        font-weight: bold;
+        font-size: 1.4rem;
+        color: #ffffff;
+
+    }
+
+    .des--sec5--span4 {
+        font-family: "poppins_regular";
+        margin: 0.5rem;
+        color: #ffffff;
+        text-align: justify;
+        width: 60vh;
+    }
+
+    /* .sec5--div14 {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        margin-top: 2rem;
+        justify-content: center;
+        align-items: center;
+
+
+    } */
+
+    .des--sec5--div15 {
+        display: flex;
+        flex-direction: column;
+
+        justify-content: center;
+
+
+    }
+
+    .des--sec5--div17 {
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+        /* width: 80vh; */
+        align-items: center;
+        justify-content: center;
+        width: 40vh;
+
+
+    }
+
+    .des--sec5--div19 {
+        display: flex;
+
+        gap: 3rem;
+        width: 40vh;
+
+
+    }
+
+
+    .des--sec5--div18 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .des--sec5--div14 {
+
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+        justify-content: center;
+        align-items: center;
+        row-gap: 2rem;
+
+    }
+
+    /* .sec5--img1 {
+        margin-right: auto;
+      
+    } */
+
+
+
+
+}
+
+@media screen and (min-width:1201px) and (max-width:2950px) {
+    .des--sec5--div1 {
+        display: none;
+    }
+
+    .des--sec5--div10 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        
+
+    }
+
+    .des--sec5--div11 {
+        width: 110vh;
+        margin-left: 1rem;
+        height: fit-content;
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+
+
+    }
+
+    .des--sec5--div12 {
+
+        margin-top: 1rem;
+        font-family: "poppins_regular";
+        font-size: 15px;
+        color: #EFBA90;
+    }
+
+    .des--sec5--div13 {
+        text-align: center;
+        font-family: "poppins_bold";
+        font-size: 25px;
+        color: #ffffff;
+    }
+
+    .des--sec5--span3 {
+        font-family: "poppins_bold";
+        padding: 0.5rem;
+        font-weight: bold;
+        font-size: 1.4rem;
+        color: #ffffff;
+
+    }
+
+    .des--sec5--span4 {
+        font-family: "poppins_regular";
+        margin: 0.5rem;
+        color: #ffffff;
+        text-align: justify;
+        width: 70vh;
+
+
+    }
+
+    .des--sec5--img1 {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    .des--sec5--div15 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+
+
+    }
+
+    .des--sec5--div17 {
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+        width: 130vh;
+        justify-content: center;
+            /* margin-left: 2rem; */
+
+    }
+
+
+    
+
+    .des--sec5--div18 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    .des--sec5--div14 {
+
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+        justify-content: center;
+        align-items: center;
+        row-gap: 2rem;
+
+
+    }
+
+
+}
+
+
+
+
+
+
+/* end desnation */
