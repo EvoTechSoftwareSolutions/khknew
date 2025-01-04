@@ -1,0 +1,72 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0%;
+    
+}
+
+
+
+
+.mobile-container {
+   width: 100%;
+    margin: 0;
+    padding: 0%;
+    /* background-color: #555; */
+    height: 500px;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .topnav1 {
+    overflow: hidden;
+    background-color:transparent;
+    position: relative;
+  }
+  
+  .topnav1 #myLinks {
+    display: none;
+  }
+  
+  .topnav1 a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    font-family: "poppins_regular";
+   
+  }
+  
+  .topnav1 a.icon {
+    /* background: rgb(255, 255, 255); */
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav3{
+    background-color: #6e6e6e;
+    text-align: center;
+  }
+  
+  .topnav3  a:hover {
+    background-color: #aca8a8;
+    color: black;
+  }
+  
+  /* .active {
+    background-color: #04AA6D;
+    color: white;
+  } */
+
+
+  .logo1{
+    width: 6rem;
+  }
+
+  .logo2{
+    width: 3.5rem;
+    margin: 1rem;
+  }

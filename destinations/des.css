@@ -234,6 +234,13 @@ body {
 
 }
 
+.des--sec5--div18{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 @media screen and (max-width:899px) {
     .des--sec5--div10 {
         display: none;

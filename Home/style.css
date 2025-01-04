@@ -27,11 +27,17 @@ body {
 
 }
 
+.home--sec1--div1{
+
+    position: relative;
+    z-index: 1;
+}
+
 /* slider */
 
 .slider {
     height: 100vh;
-    margin-top: -50px;
+
     position: relative;
 }
 
@@ -88,7 +94,7 @@ body {
 
 .slider .list .item.active {
     opacity: 1;
-    z-index: 10;
+    z-index: 1;
 }
 
 @keyframes showContent {
@@ -192,9 +198,15 @@ body {
     }
 
     .arrows {
-        top: 10%;
+        top: 15%;
     }
 }
+
+
+
+
+
+
 
 /* slider */
 
@@ -229,7 +241,7 @@ body {
     overflow: hidden;
     line-height: 0;
     transform: rotate(180deg);
-    z-index: 10;
+    z-index: 100;
 }
 
 .custom-shape-divider-bottom-1735126840 svg {
@@ -705,6 +717,10 @@ body {
 
 .sec5--div1 {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
 
 }
@@ -1391,15 +1407,15 @@ body {
 
 
 /* start testimonials */
-.sec7--div1{
+.home--sec7--div1{
     width: 100%;
-    z-index: 100;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  
+   
+   
+    
 }
 
-.sec7--div2 {
+.home--sec7--div2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -1407,7 +1423,7 @@ body {
 
 }
 
-.sec7--div3 {
+.home--sec7--div3 {
     display: flex;
     width: 90%;
     margin: auto;
@@ -1417,7 +1433,7 @@ body {
     z-index: 100;
 }
 
-.sec7--div4 {
+.home--sec7--div4 {
     display: flex;
     width: 90%;
     margin: auto;
@@ -1427,7 +1443,9 @@ body {
     z-index: 100;
 }
 
-.sec7--div5{
+/* .home--sec7--div5{
+    width: 90%;
+ 
  
 
 
@@ -1435,9 +1453,10 @@ body {
 
 }
 
-.sec7--div6{
+.home--sec7--div6{
     display: flex;
     width: 90%;
+    height: 3rem;
     background-color: #648068;
     z-index: 100;
     position: relative;
@@ -1447,9 +1466,10 @@ body {
     flex-direction: column;
     padding: 0.5rem;
     border-radius: 10px;
+  
 }
 
-.sec7--span1{
+.home--sec7--span1{
   
     font-family: "poppins_regular";
     font-size: 0.5rem;
@@ -1458,7 +1478,7 @@ body {
 }
 
 
-.sec7--span2{
+.home--sec7--span2{
   
     font-family: "poppins_regular";
     font-size: 0.7rem;
@@ -1467,13 +1487,32 @@ body {
 
 }
 
-.sec7--span3{
+.home--sec7--span3{
   
     font-family: "poppins_regular";
     font-size: 0.9rem;
     color: #023213;
     margin-top: 0.1rem;
 }
+
+.home--sec7--div7{
+   gap: 1rem;
+} */
+
+
+
+
+
+.testimonials-container{
+    display: flex;
+    z-index: 100;
+    position:absolute;
+}
+
+
+
+
+
 
 
 
