@@ -69,7 +69,7 @@ thumbnails.forEach((thumbnail, index) => {
 $('.testimonials-container').owlCarousel({
     loop:true,
     autoplay:true,
-    autoplayTimeout:3000,
+    autoplayTimeout:6000,
     margin:10,
     nav:true,
     navText:["<i class='fa-solid fa-arrow-left'></i>",

@@ -468,11 +468,7 @@
                                     <i class="fa fa-quote-left"></i>
                                     <h2>Awesome Coding</h2>
                                 </div> -->
-                                <p>We had the pleasure of having Kosala as our driver while visiting Sri Lanka for two weeks. He was an excellent driver and made transportation across the country an easy, relaxing experience. Kosala was always punctual, pleasant and extremely accommodating.
-
-                                    (We did use two other transportations companies while in Sri Lanka and they just didn’t compare to the service we received with Kosala.)
-
-                                    I would highly recommend this company to anyone looking for transportation while visiting Sri Lanka.</p>
+                                <p>We had the pleasure of having Kosala as our driver while visiting Sri Lanka for two weeks. He was an excellent driver and made transportation across the country an easy, relaxing experience.I would highly recommend this company to anyone looking for transportation while visiting Sri Lanka.</p>
                                 <div class="ratings">
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
@@ -535,7 +531,7 @@
                                     <h2>Awesome Coding</h2>
                                 </div> -->
                                 <p>I highly recommend Kosala! He’s kind and super professional! He was able to find me drivers very quickly, at any moment and they were all super nice!
-                                Thanks for everything Kosala :)</p>
+                                    Thanks for everything Kosala :)</p>
                                 <div class="ratings">
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
@@ -645,92 +641,11 @@
                 <!-- Owl Carousel Slider Ends -->
 
 
-
-
-
-
-
             </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <!-- <div class="home--sec7--div7">
-                    <div class="home--sec7--div5">
-                        <div class="home--sec7--div6">
-                            <span class="home--sec7--span1">Sri Lanka</span>
-                            <span class="home--sec7--span2">Shiva Munasiha</span>
-                            <span class="home--sec7--span3">This is very useful for travelers.Excellent job.</span>
-                        </div>
-
-                    </div>
-
-                    <div class="home--sec7--div5">
-                        <div class="home--sec7--div6">
-                            <span class="home--sec7--span1">Sri Lanka</span>
-                            <span class="home--sec7--span2">Shiva Munasiha</span>
-                            <span class="home--sec7--span3">This is very useful for travelers.Excellent job.</span>
-                        </div>
-
-                    </div>
-
-                    <div class="home--sec7--div5">
-                        <div class="home--sec7--div6">
-                            <span class="home--sec7--span1">Sri Lanka</span>
-                            <span class="home--sec7--span2">Shiva Munasiha</span>
-                            <span class="home--sec7--span3">This is very useful for travelers.Excellent job.</span>
-                        </div>
-
-                    </div>
-
-
-                    <div class="home--sec7--div5">
-                        <div class="home--sec7--div6">
-                            <span class="home--sec7--span1">Sri Lanka</span>
-                            <span class="home--sec7--span2">Shiva Munasiha</span>
-                            <span class="home--sec7--span3">This is very useful for travelers.Excellent job.</span>
-                        </div>
-
-                    </div> -->
-
-
         </div>
-
-
-        </div>
-
-
-
-        </div>
-
 
 
 
