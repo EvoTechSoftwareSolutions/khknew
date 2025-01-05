@@ -94,9 +94,11 @@
                     <a href="#home"><img src="../resources/logo_lg.png" class="logo1"></a>
                     <div class="topnav2">
                         <div id="myLinks" class="topnav3">
-                            <a href="#news">News</a>
-                            <a href="#contact">Contact</a>
-                            <a href="#about">About</a>
+                            <a href="" class="header--text3">HOME</a>
+                            <a href="" class="header--text3">OUR SERVICES</a>
+                            <a href="" class="header--text3">DESTINATIONS</a>
+                            <a href="" class="header--text3">TOUR PACKAGES</a>
+                            <a href="" class="header--text3">CONTACT US</a>
                         </div>
                         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                             <img src="../resources/menus1.png " class="logo2">
