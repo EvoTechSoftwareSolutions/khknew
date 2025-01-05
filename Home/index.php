@@ -479,15 +479,43 @@
                             </main>
                             <div class="profile">
                                 <div class="profile-image">
-                                    <img src="image1.jpg">
+                                    <img src="../resources/man.png">
                                 </div>
                                 <div class="profile-desc">
                                     <span>Megan Shank</span>
-                                    <span>Description</span>
+                                    <span>Netherlands</span>
                                 </div>
                             </div>
                         </div>
                         <!-- Item1 Ends -->
+
+                        <!-- Item6 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>Kosala provided great service during our trip through Sri Lanka! He took us quickly, safely and for a great price. If he couldn't make it himself, due to our last minute requests, he arranged another driver for us. It was extra nice that we could leave our things in the car if we made a stop along the way</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="../resources/man.png">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Anouk Van Heumen</span>
+                                    <span>Span</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item6 Ends -->
 
                         <!-- Item2 Starts -->
                         <div class="item testimonial-card">
@@ -513,11 +541,11 @@
                             </main>
                             <div class="profile">
                                 <div class="profile-image">
-                                    <img src="image2.jpg">
+                                    <img src="../resources/woman.png">
                                 </div>
                                 <div class="profile-desc">
                                     <span>Christine Hwee</span>
-                                    <span>Description</span>
+                                    <span>Belgium</span>
                                 </div>
                             </div>
                         </div>
@@ -542,11 +570,11 @@
                             </main>
                             <div class="profile">
                                 <div class="profile-image">
-                                    <img src="image3.jpg">
+                                    <img src="../resources/woman.png">
                                 </div>
                                 <div class="profile-desc">
                                     <span>Millena Araujio</span>
-                                    <span>Description</span>
+                                    <span>France</span>
                                 </div>
                             </div>
                         </div>
@@ -570,11 +598,11 @@
                             </main>
                             <div class="profile">
                                 <div class="profile-image">
-                                    <img src="image4.jpg">
+                                    <img src="../resources/woman.png">
                                 </div>
                                 <div class="profile-desc">
                                     <span>Danysha Weerasuriya</span>
-                                    <span>Description</span>
+                                    <span>Netherlands</span>
                                 </div>
                             </div>
                         </div>
@@ -598,43 +626,17 @@
                             </main>
                             <div class="profile">
                                 <div class="profile-image">
-                                    <img src="image5.jpg">
+                                    <img src="../resources/man.png">
                                 </div>
                                 <div class="profile-desc">
                                     <span>Dylano Weerasuriya</span>
-                                    <span>Description</span>
+                                    <span>Netherlands</span>
                                 </div>
                             </div>
                         </div>
                         <!-- Item5 Ends -->
 
-                        <!-- Item6 Starts -->
-                        <div class="item testimonial-card">
-                            <main class="test-card-body">
-                                <!-- <div class="quote">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h2>Awesome Coding</h2>
-                                </div> -->
-                                <p>Kosala provided great service during our trip through Sri Lanka! He took us quickly, safely and for a great price. If he couldn't make it himself, due to our last minute requests, he arranged another driver for us. It was extra nice that we could leave our things in the car if we made a stop along the way</p>
-                                <div class="ratings">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                </div>
-                            </main>
-                            <div class="profile">
-                                <div class="profile-image">
-                                    <img src="image6.jpg">
-                                </div>
-                                <div class="profile-desc">
-                                    <span>Anouk Van Heumen</span>
-                                    <span>Description</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Item6 Ends -->
+
 
                     </div>
                 </div>
@@ -654,10 +656,125 @@
 
 
     <!-- end testimonials -->
-    <br>
-    <br>
 
 
+
+    <br>
+
+    <!-- start gallery -->
+
+    <section class="home--sec8">
+        <div class="home--sec8--div1">
+            <!-- <div class="home--sec8--div2">
+                <div class="home--sec8--div3">Testimonials</div>
+
+                <div class="home--sec8--div4">WHAT MY CLIENT SAYS!</div>
+
+            </div> -->
+<br>
+            <div class="home--sec8--div5">
+                <div class="grid-wrapper">
+                    <div>
+                        <img src="../resources/galley/1.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/2.jpg" class="galley--img">
+                    </div>
+
+                    <div>
+                        <img src="../resources/galley/3.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/4.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/5.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/6.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/7.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/8.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/9.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/10.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/11.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/12.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/13.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/14.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/15.jpg" class="galley--img">
+                    </div>
+
+                    <div>
+                        <img src="../resources/galley/16.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/17.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/18.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/19.jpg" class="galley--img">
+                    </div>
+                    <div>
+                        <img src="../resources/galley/20.jpg" class="galley--img">
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+    </section>
+
+
+<br>
+<br>
+    <!-- end gallery -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     <!-- jquary link  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
