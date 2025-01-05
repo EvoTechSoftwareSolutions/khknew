@@ -29,29 +29,39 @@ body {
 .header--sec1{
     position: fixed;
     width: 100%;
-    z-index: 100;
+    z-index: 1000;
+    /* background-color: red; */
 }
 
 .header--sec2{
     position: fixed;
     width: 100%;
-    z-index: 100;
+    z-index: 1000;
     
 }
 
 .header--sec3{
     position: fixed;
     width: 100%;
-    z-index: 100;
+    z-index: 1000;
 }
+
+
+.header--sec1--div1, .header--sec2--div1, .header--sec3--div1 {
+    background-color: transparent;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+
 
 .header--sec1--div1 {
     display: flex;
-    position: relative;
+    /* position: relative; */
     z-index: 100;
     width: 100%;
     height: fit-content;
-
+    /* background-color: red; */
 
     flex-direction: row;
 }
@@ -432,7 +442,7 @@ body {
     margin: 0;
     padding: 0%;
     /* background-color: #555; */
-    height: 500px;
+    height: fit-content;
     color: white;
     border-radius: 10px;
   }
