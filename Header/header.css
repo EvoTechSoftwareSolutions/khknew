@@ -29,16 +29,20 @@ body {
 .header--sec1{
     position: fixed;
     width: 100%;
+    z-index: 100;
 }
 
 .header--sec2{
     position: fixed;
     width: 100%;
+    z-index: 100;
+    
 }
 
 .header--sec3{
     position: fixed;
     width: 100%;
+    z-index: 100;
 }
 
 .header--sec1--div1 {
