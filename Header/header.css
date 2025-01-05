@@ -16,19 +16,35 @@
 
 
 body {
-    width: 100%;
+    /* width: 100%; */
     padding: 0;
     margin: 0%;
+   
 
 }
+/* .header--body{
+    position: fixed;
+} */
 
+.header--sec1{
+    position: fixed;
+    width: 100%;
+}
+
+.header--sec2{
+    position: fixed;
+    width: 100%;
+}
+
+.header--sec3{
+    position: fixed;
+    width: 100%;
+}
 
 .header--sec1--div1 {
     display: flex;
     position: relative;
     z-index: 100;
-
-
     width: 100%;
     height: fit-content;
 
