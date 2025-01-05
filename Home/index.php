@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../Header/header.css">
     
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="../Footer/footer.css">
+    <link rel="stylesheet" href="footer.css">
 
     <!-- *******  Font Awesome Icons Link  ******* -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
@@ -23,6 +23,8 @@
 </head>
 
 <body>
+
+
     <!-- Header -->
     <?php include "../Header/header.php"; ?>
     <!-- Header -->

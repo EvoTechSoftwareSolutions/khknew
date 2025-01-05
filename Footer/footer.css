@@ -21,13 +21,13 @@
 
 
 
-body {
+/* body {
     width: 100%;
     margin: 0;
     padding: 0;
 
 
-}
+} */
 
 .footer--sec1--div1 {
     width: 100%;
@@ -148,8 +148,9 @@ body {
     font-size: 1rem;
     text-align: center;
     font-family: "poppins_bold";
-    color: #023213;
+    color: black;
     text-decoration: none;
+    margin-top: 0.5rem;
  }
 
 @media screen and (max-width:749px) {
