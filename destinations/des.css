@@ -23,6 +23,8 @@ body {
 .des--sec1--div1 {
     width: 100%;
     display: flex;
+    justify-content: center;
+    align-items: center;
 
 
 }
@@ -31,7 +33,7 @@ body {
     display: flex;
 
     width: 100%;
-    height: 350px;
+
     box-sizing: border-box;
     overflow: hidden;
     z-index: 1;
@@ -47,7 +49,7 @@ body {
 
 .des--sec1--div3 {
     width: 100%;
-    height: 350px;
+    height: fit-content;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,7 +60,7 @@ body {
 .des--span1 {
 
     font-family: "poppins_bold";
-    font-size: 7rem;
+    font-size: 2rem;
     color: white;
     animation-name: slideInLeft;
     animation-duration: 1s;
@@ -146,14 +148,18 @@ body {
     border-radius: 60%;
 
 }
+.des--sec5--div7{
+    display: flex;
+justify-content: center;
 
+}
 .des--sec5--div8 {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 1rem;
-    width: 14rem;
-    height: 33rem;
+    width:18rem ;
+    height: 60rem;
     padding: 0.5rem;
     background-color: #688C6D;
     border-radius: 10px;
@@ -454,6 +460,7 @@ body {
         gap: 3rem;
         width: 130vh;
         justify-content: center;
+        align-items: center;
             /* margin-left: 2rem; */
 
     }

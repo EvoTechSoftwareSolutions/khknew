@@ -9,11 +9,14 @@
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="style.css">
 
+    <!-- *******  Font Awesome Icons Link  ******* -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+
     <!-- owl carousal links  -->
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"  >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"  >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <!-- owl carousal links  -->
 </head>
 
@@ -456,21 +459,198 @@
                 </div>
 
 
+                <div class="home--sec7--div5">
+                    <div class="owl-carousel owl-theme testimonials-container">
+                        <!-- Item1 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>We had the pleasure of having Kosala as our driver while visiting Sri Lanka for two weeks. He was an excellent driver and made transportation across the country an easy, relaxing experience. Kosala was always punctual, pleasant and extremely accommodating.
 
-                <div class="owl-carousel owl-theme testimonials-container">
-                    <div class="item testimonial-card">
+                                    (We did use two other transportations companies while in Sri Lanka and they just didn’t compare to the service we received with Kosala.)
 
-                    nai
-                        
+                                    I would highly recommend this company to anyone looking for transportation while visiting Sri Lanka.</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image1.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Megan Shank</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item1 Ends -->
+
+                        <!-- Item2 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>Our driver, Kosala was very knowledgeable and professional and took care of us throughout the trip. Very dedicated to the job.
+
+                                    We feel so blessed.
+
+                                    Thank you for everything Kosala.
+
+                                    From: Alvin and Christine</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image2.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Christine Hwee</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item2 Ends -->
+
+                        <!-- Item3 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>I highly recommend Kosala! He’s kind and super professional! He was able to find me drivers very quickly, at any moment and they were all super nice!
+                                Thanks for everything Kosala :)</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image3.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Millena Araujio</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item3 Ends -->
+
+                        <!-- Item4 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>A time we will never forget, Kosala took us everywhere safely and showed us the most beautiful things. He is super sweet and helpful, and listened to all our wishes. See you again soon in SL 🥰 …</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image4.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Danysha Weerasuriya</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item4 Ends -->
+
+                        <!-- Item5 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>We had a wonderful tour in Sri Lanka, we were guided by Kosala. Who knows how to find all the beautiful places in Sri Lanka, in addition to the best and most reliable tour guide, I have also gained a good friend.</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image5.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Dylano Weerasuriya</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item5 Ends -->
+
+                        <!-- Item6 Starts -->
+                        <div class="item testimonial-card">
+                            <main class="test-card-body">
+                                <!-- <div class="quote">
+                                    <i class="fa fa-quote-left"></i>
+                                    <h2>Awesome Coding</h2>
+                                </div> -->
+                                <p>Kosala provided great service during our trip through Sri Lanka! He took us quickly, safely and for a great price. If he couldn't make it himself, due to our last minute requests, he arranged another driver for us. It was extra nice that we could leave our things in the car if we made a stop along the way</p>
+                                <div class="ratings">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                            </main>
+                            <div class="profile">
+                                <div class="profile-image">
+                                    <img src="image6.jpg">
+                                </div>
+                                <div class="profile-desc">
+                                    <span>Anouk Van Heumen</span>
+                                    <span>Description</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Item6 Ends -->
+
                     </div>
-                   
-
-
-
-
-
-
                 </div>
+                <!-- Owl Carousel Slider Ends -->
+
+
+
+
+
+
+
+            </div>
 
 
 
@@ -503,7 +683,7 @@
 
 
 
-                <!-- <div class="home--sec7--div7">
+            <!-- <div class="home--sec7--div7">
                     <div class="home--sec7--div5">
                         <div class="home--sec7--div6">
                             <span class="home--sec7--span1">Sri Lanka</span>
@@ -542,7 +722,7 @@
                     </div> -->
 
 
-            </div>
+        </div>
 
 
         </div>
@@ -559,7 +739,8 @@
 
 
     <!-- end testimonials -->
-
+    <br>
+    <br>
 
 
     <!-- jquary link  -->
