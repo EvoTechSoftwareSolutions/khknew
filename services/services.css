@@ -431,23 +431,109 @@ line-height: 42px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* section3 end  */
+
+
+
+
+ /* start gallery  */
+ .home--sec8--div1 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+
+}
+ .home--sec8--div2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.home--sec8--div3 {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    font-family: "poppins_regular";
+    font-size: 15px;
+    color: #EFBA90;
+    z-index: 100;
+}
+
+.home--sec8--div4 {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    font-family: "poppins_bold";
+    font-size: 25px;
+    color: #ffffff;
+    z-index: 100;
+}
+
+
+
+.home--sec8--div5{
+    
+    box-sizing: border-box;
+    width: 70%;
+    margin: auto;
+
+}
+
+.galley--img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    display: inline-block;
+ 
+}
+
+.grid-wrapper > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.grid-wrapper > div > img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 5px;
+}
+
+
+
+
+.grid-wrapper{
+    display: grid;
+   grid-gap: 10px;
+   grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+  grid-auto-rows: 200px;
+   grid-auto-flow:dense ;
+}
+
+.grid-wrapper .wide{
+    grid-column: span 2;
+
+}
+
+.grid-wrapper .tall{
+    grid-row: span 2;
+
+}
+
+.grid-wrapper .big{
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+
+
+
+ /* end gallery */

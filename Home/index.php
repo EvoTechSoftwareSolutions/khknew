@@ -7,7 +7,7 @@
     <title>KHK TOURS</title>
     <link rel="icon" href="../resources/logo.png" />
     <link rel="stylesheet" href="../Header/header.css">
-    
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="footer.css">
 
@@ -675,7 +675,7 @@
                 <div class="home--sec8--div4">WHAT MY CLIENT SAYS!</div>
 
             </div> -->
-<br>
+            <br>
             <div class="home--sec8--div5">
                 <div class="grid-wrapper">
                     <div>
@@ -754,14 +754,14 @@
     </section>
 
 
-<br>
-<br>
+    <br>
+    <br>
     <!-- end gallery -->
 
 
 
-<!-- Footer -->
-<?php include "../Footer/footer.php"; ?>
+    <!-- Footer -->
+    <?php include "../Footer/footer.php"; ?>
     <!-- Footer -->
 
 
@@ -780,7 +780,7 @@
 
 
 
-    
+
     <!-- jquary link  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
