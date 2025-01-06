@@ -16,6 +16,8 @@
  <?php include "../Header/header.php"; ?>
     <!-- Header -->
 
+    <div class="space1"></div>
+    
     <section class="des--sec1">
         <div class="des--sec1--div1">
             <div class="des--sec1--div2">

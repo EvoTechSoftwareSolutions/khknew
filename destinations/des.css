@@ -14,6 +14,25 @@
 }
 
 
+
+@media screen and (max-width:649px) {
+    .space1{
+        width: 100%;
+        height: 6em;
+    }
+}
+
+
+
+@media screen and (min-width:650px) and (max-width:950px) {
+    .space1{
+        width: 100%;
+        height: 9em;
+    }
+}
+
+
+
 body {
     width: 100%;
     margin: 0;

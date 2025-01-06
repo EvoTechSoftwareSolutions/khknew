@@ -93,35 +93,34 @@
                 </div>
                 <!-- button arrows -->
                 <div class="arrows">
-                    <button id="prev">
-                        < </button>
-                            <button id="next">></button>
+                    <button id="prev"> < </button>
+                    <button id="next"> ></button>
                 </div>
                 <!-- thumbnail -->
                 <div class="thumbnail">
                     <div class="item active">
-                        <!-- <img src="../resources/carousel/1.jpg" alt="">
+                        <img src="../resources/carousel/1.jpg" alt="">
                         <div class="content">
                             Name Slider
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
-                        <!-- <img src="../resources/carousel/2.jpg" alt="">
+                        <img src="../resources/carousel/2.jpg" alt="">
                         <div class="content">
                             Name Slider
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
-                        <!-- <img src="../resources/carousel/3.jpg" alt="">
+                        <img src="../resources/carousel/3.jpg" alt="">
                         <div class="content">
                             Name Slider
-                        </div> -->
+                        </div>
                     </div>
                     <div class="item">
-                        <!-- <img src="../resources/carousel/4.jpg" alt="">
+                        <img src="../resources/carousel/4.jpg" alt="">
                         <div class="content">
                             Name Slider
-                        </div> -->
+                        </div>
                     </div>
 
                 </div>
@@ -320,7 +319,8 @@
 
             </div>
 
-            <div class="sec5--div9"><a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a></div>
+            <div class="sec5--div9">
+                <a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a></div>
 
         </div>
 
@@ -376,7 +376,7 @@
                     </div>
 
 
-                    <div class="sec5--div10"><a href="../destinations/des" class="sec5--button1">VIEW MORE</a></div>
+                    <div class="sec5--div10"><a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a></div>
 
 
 
