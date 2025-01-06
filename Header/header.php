@@ -18,12 +18,12 @@
         <div class="header--sec1--div1">
 
             <div class="header--sec1--div2">
-                <img src="../resources/logo.png" class="header--logo" alt="">
+                <img src="../resources/logo_lg.png" class="header--logo" alt="">
             </div>
             <div class="header--sec1--div3">
-                <a href="" class="header--text">HOME</a>
-                <a href="" class="header--text">OUR SERVICES</a>
-                <a href="" class="header--text">DESTINATIONS</a>
+                <a href="../index.php" class="header--text">HOME</a>
+                <a href="../services/services.php" class="header--text">OUR SERVICES</a>
+                <a href="../destinations/des.php" class="header--text">DESTINATIONS</a>
 
                 <div class="dropdown">
                     <button class="dropbtn">TOUR PACKAGES
@@ -40,11 +40,11 @@
                     </div>
                 </div>
                 <!-- <a href="" class="header--text"></a> -->
-                <a href="" class="header--text">CONTACT US</a>
+                <a href="../contact/contact.php" class="header--text">CONTACT US</a>
             </div>
 
             <div class="header--sec1--div4">
-                <a href="" class="header--text2">CALL NOW</a>
+                <a href="https://api.whatsapp.com/send?phone=94773614654" class="header--text2">CALL NOW</a>
             </div>
 
         </div>

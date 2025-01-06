@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KHK TOURS</title>
 
-    <link rel="icon" href="../resources/img/logo.png" />
+    <link rel="icon" href="../resources/img/logo_lg.png"/>
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="../Footer/footer.css">
     <link rel="stylesheet" href="contact.css" />
@@ -57,23 +57,23 @@
                             <div class="contact--sec2--div7">
                                 <a href="tel:+94 77 798 5644" class="contact--icon--row">
                                     <div class="contact--sec2--div8--img">
-                                        <img src="../resources/img/phone.png" class="contact--img--icon">
+                                        <img src="../resources/contact/telephone.png" class="contact--img--icon">
                                     </div>
                                     <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">+94&nbsp;(77)&nbsp;798&nbsp;5644</span>
+                                        <span class="contatct--sec2--txt3">+94&nbsp;(77)&nbsp;361&nbsp;4654</span>
+                                    </div>
+                                </a>
+                                <a href="https://maps.app.goo.gl/WUGj1pvpywaGesZz8" class="contact--icon--row">
+                                    <div class="contact--sec2--div8--img">
+                                        <img src="../resources/contact/placeholder.png" class="contact--img--icon">
+                                    </div>
+                                    <div class="contact--sec2--div8">
+                                        <span class="contatct--sec2--txt3">NO&nbsp;16/A&nbsp;Ranawiru Rasika Rukmal Mawatha&nbsp;, Uyanwatta, Matara</span>
                                     </div>
                                 </a>
                                 <a href="https://maps.app.goo.gl/yWxUu4EMo5qDkKLK9" class="contact--icon--row">
                                     <div class="contact--sec2--div8--img">
-                                        <img src="../resources/img/location.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">NO&nbsp;554,Sixty&nbsp;Feet Royal&nbsp;Residents, Kattuwa</span>
-                                    </div>
-                                </a>
-                                <a href="https://maps.app.goo.gl/yWxUu4EMo5qDkKLK9" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/img/location.png" class="contact--img--icon">
+                                        <img src="../resources/contact/email.png" class="contact--img--icon">
                                     </div>
                                     <div class="contact--sec2--div8">
                                         <span class="contatct--sec2--txt3">NO&nbsp;554,Sixty&nbsp;Feet Royal&nbsp;Residents, Kattuwa</span>
@@ -82,15 +82,19 @@
                             </div>
                             <div class="contact--sec2--div10">
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://web.facebook.com/profile.php?id=61565563513410" class="contact--icon--row"><img src="../resources/img/facebookc.png"
+                                    <a href="https://web.facebook.com/profile.php?id=61565563513410" class="contact--icon--row"><img src="../resources/socialicon/facebook (1).png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://wa.link/5rz2js" class="contact--icon--row"><img src="../resources/img/whatsapp.png"
+                                    <a href="https://www.instagram.com/khktraval?utm_source=qr&igsh=MTRzYmtsbWc0bDVtMQ==" class="contact--icon--row"><img src="../resources/socialicon/instagram (1).png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://www.linkedin.com/in/srilanka-tourexperts-1b5187329" class="contact--icon--row"><img src="../resources/img/linkedinc.png"
+                                    <a href="https://api.whatsapp.com/send?phone=94773614654" class="contact--icon--row"><img src="../resources/socialicon/whatsapp (2).png"
+                                            class="contact--img--icon"></a>
+                                </div>
+                                <div class="contact--sec2--div8--img">
+                                    <a href="#" class="contact--icon--row"><img src="../resources/socialicon/tripadvisor (1).png"
                                             class="contact--img--icon"></a>
                                 </div>
                             </div>
@@ -153,7 +157,7 @@
             </div>
             <div class="contact--sec2--div24">
                 <div class="contact--sec2--div25">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.0269890238555!2d79.85192197575819!3d7.237760792768498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2eecace60a711%3A0xddda628161009099!2s554%20Sixty%20Feet%20Rd%2C%20Negombo!5e0!3m2!1sen!2slk!4v1726650015088!5m2!1sen!2slk" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="contact--map--img"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3166521328867!2d80.5563884!3d5.951033300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae139005828311b%3A0xdd0e4cb077063998!2sKHK%20Tours!5e0!3m2!1sen!2slk!4v1736124128896!5m2!1sen!2slk" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="contact--map--img"></iframe>
                 </div>
             </div>
         </div>

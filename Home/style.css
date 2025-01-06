@@ -1161,6 +1161,7 @@ body {
     display: flex;
     flex-direction: column;
 
+
 }
 
 .sec6--span1 {
@@ -1180,7 +1181,7 @@ body {
 }
 
 
-.sec6--div9 {
+.sec6--button1 {
     background-color: #688c6d00;
     width: 8rem;
     height: 1rem;
@@ -1198,32 +1199,47 @@ body {
 
 }
 
-.sec6--div9:disabled {
+.sec6--button1:disabled {
     pointer-events: none;
 }
 
-.sec5--div9:hover {
+.sec6--button1:hover {
     border: solid 3px #000000;
     color: #000000;
+    background-color: #688C6D;
+    margin-bottom: 1rem;
+    border: solid 3px #648068;
+    color: #023213;
+}
+
+.sec6--button1:disabled {
+    pointer-events: none;
+}
+
+.sec6--button1:hover {
+    border: solid 3px #ffffff;
+    color: #ffffff;
     background-color: #688C6D;
     box-shadow: #688C6D 0 8px 15px;
     transform: translateY(-2px);
 }
 
-.sec6--div9:active {
+.sec6--button1:active {
     box-shadow: none;
     transform: translateY(0);
 }
 
 .sec6--button1 {
     text-decoration: none;
-    color: #688C6D;
+    color: #648068;
 }
+
 
 .sec6--hr1 {
     width: 90%;
     z-index: 100;
     position: relative;
+    margin-top: 4rem;
 }
 
 .sec6--div8 {
@@ -1325,7 +1341,6 @@ body {
     }
 
     .sec6--div9 {
-
         width: 5rem;
         height: 0.1rem;
         font-size: 0.7rem;

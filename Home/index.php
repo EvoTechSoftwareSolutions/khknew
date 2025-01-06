@@ -260,7 +260,7 @@
 
                 </div>
                 <div class="sec4--div10">
-                    <div class="sec4--div7"><a href="" class="sec4--button1">VIEW MORE</a></div>
+                    <div class="sec4--div7"><a href="../services/services.php" class="sec4--button1">VIEW MORE</a></div>
                 </div>
             </div>
 
@@ -320,7 +320,7 @@
 
             </div>
 
-            <div class="sec5--div9"><a href="" class="sec5--button1">VIEW MORE</a></div>
+            <div class="sec5--div9"><a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a></div>
 
         </div>
 
@@ -376,7 +376,7 @@
                     </div>
 
 
-                    <div class="sec5--div10"><a href="" class="sec5--button1">VIEW MORE</a></div>
+                    <div class="sec5--div10"><a href="../destinations/des" class="sec5--button1">VIEW MORE</a></div>
 
 
 
@@ -416,8 +416,9 @@
                             landmarks, vibrant neighborhoods, and hidden gems. Immerse yourself in each destination's
                             unique culture, history, and local flavor, making every tour a journey of discovery and
                             delight.</span>
-                        <div class="sec6--div9"><a href="" class="sec6--button1">VIEW MORE</a></div>
+                        <div class="sec6--div9"><a href="#" class="sec6--button1">VIEW MORE</a></div>
                     </div>
+                    
                     <hr class="sec6--hr1">
 
                     <div class="sec6--div8">
@@ -425,7 +426,7 @@
                         <span class="sec6--span2">Embark on unforgettable Shutter Tours with us and discover the vibrant
                             soul of each destination. From iconic landmarks to hidden gems, our expert guides ensure a
                             journey filled with exploration, learning, and memorable experiences.</span>
-                        <div class="sec6--div9"><a href="" class="sec6--button1">VIEW MORE</a></div>
+                        <div class="sec6--div9"><a href="#" class="sec6--button1">VIEW MORE</a></div>
                     </div>
 
                 </div>

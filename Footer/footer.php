@@ -21,19 +21,19 @@
                 </div>
                 <div class="footer--sec1--div4">
                     <div>
-                        <a href=""><img src="../resources/socialicon/facebook (1).png" class="footer--logo2"></a>
+                        <a href="https://web.facebook.com/profile.php?id=61565563513410"><img src="../resources/socialicon/facebook (1).png" class="footer--logo2"></a>
                     </div>
 
                     <div>
-                        <a href=""><img src="../resources/socialicon/instagram (1).png" class="footer--logo2"></a>
+                        <a href="https://www.instagram.com/khktraval?utm_source=qr&igsh=MTRzYmtsbWc0bDVtMQ=="><img src="../resources/socialicon/instagram (1).png" class="footer--logo2"></a>
                     </div>
 
                     <div>
-                        <a href=""><img src="../resources/socialicon/whatsapp (2).png" class="footer--logo2"></a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654"><img src="../resources/socialicon/whatsapp (2).png" class="footer--logo2"></a>
                     </div>
 
                     <div>
-                        <a href=""><img src="../resources/socialicon/tripadvisor (1).png" class="footer--logo2"></a>
+                        <a href="#"><img src="../resources/socialicon/tripadvisor (1).png" class="footer--logo2"></a>
                     </div>
                 </div>
                 <div class="footer--sec1--div5">
@@ -57,11 +57,11 @@
                 </div>
 
                 <div class="footer--sec1--div6">
-                    <a href="" class="header--span2">HOME</a>
-                    <a href="" class="header--span2">OUR SERVICES</a>
-                    <a href="" class="header--span2">DESTINATIONS</a>
-                    <a href="" class="header--span2">TOUR PACKAGES</a>
-                    <a href="" class="header--span2">CONTACT US</a>
+                    <a href="../index.php" class="header--span2">HOME</a>
+                    <a href="../services/services.php" class="header--span2">OUR SERVICES</a>
+                    <a href="../destinations/des.php" class="header--span2">DESTINATIONS</a>
+                    <a href="../packages/packages.php" class="header--span2">TOUR PACKAGES</a>
+                    <a href="../contact/contact.php" class="header--span2">CONTACT US</a>
                 </div>
 
 
@@ -74,7 +74,11 @@
 
         </div>
         <div class="footer--sec1--div7">
-                <span class="footer--span4">Copyright © 2024 All Rights Reserved by Evon Technologies Software Solutions.</span>
+                <span class="footer--span4">Copyright © 2025 All Rights Reserved by 
+                <a href="https://evotechsoftwaresolutions.com" class="footer--row4--txt">
+                Evon Technologies Software Solutions.
+            </a>
+                    </span>
 
             </div>
         </div>
