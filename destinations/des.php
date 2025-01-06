@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>KHK TOURS</title>
     <link rel="stylesheet" href="des.css">
     <link rel="icon" href="../resources/logo.png" />
     <link rel="stylesheet" href="../Header/header.css">
