@@ -90,6 +90,8 @@ height: 30rem;
 
 }
 
+
+
 @keyframes slideInLeft {
     from {
         transform: translate(-300px);
@@ -101,6 +103,40 @@ height: 30rem;
     }
 }
   
+
+@media screen and (min-width:900px) {
+  .contact--span1 {
+      font-size:4rem;
+    
+      
+  
+  }
+  
+}
+
+
+@media screen and (min-width:1200px) {
+  .contact--span1 {
+      font-size:7rem;
+    
+      
+  
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
   @media screen and (min-width: 545px) {
     .start--div {
       width: 100%;

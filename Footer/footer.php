@@ -74,13 +74,13 @@
 
         </div>
         <div class="footer--sec1--div7">
-                <span class="footer--span4">Copyright © 2025 All Rights Reserved by 
-                <a href="https://evotechsoftwaresolutions.com" class="footer--row4--txt">
-                Evon Technologies Software Solutions.
-            </a>
-                    </span>
+            <span class="footer--span4">Copyright © 2025 All Rights Reserved by 
+                <a href="https://evotechsoftwaresolutions.com" class="footer--span4">
+                    Evon Technologies Software Solutions.
+                </a>
+            </span>
 
-            </div>
+        </div>
         </div>
 
     </section>

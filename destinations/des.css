@@ -85,9 +85,26 @@ body {
 }
 
 
+@media screen and (min-width:900px) {
+    .des--span1 {
+        font-size:4rem;
+      
+        
+    
+    }
+    
+}
 
 
-
+@media screen and (min-width:1200px) {
+    .des--span1 {
+        font-size:7rem;
+      
+        
+    
+    }
+    
+}
 
 
 

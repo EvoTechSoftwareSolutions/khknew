@@ -76,7 +76,7 @@
                                         <img src="../resources/contact/email.png" class="contact--img--icon">
                                     </div>
                                     <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">NO&nbsp;554,Sixty&nbsp;Feet Royal&nbsp;Residents, Kattuwa</span>
+                                        <span class="contatct--sec2--txt3">info@khktours.com</span>
                                     </div>
                                 </a>
                             </div>
