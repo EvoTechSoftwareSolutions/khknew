@@ -64,16 +64,29 @@
                     <img src="../resources/logo.png" class="header--logo" alt="">
                 </div>
                 <div class="header--sec3--div4">
-                    <a href="" class="header--text2">CALL NOW</a>
+                    <a href="https://api.whatsapp.com/send?phone=94773614654" class="header--text2">CALL NOW</a>
                 </div>
 
             </div>
             <div class="header--sec3--div3">
-                <a href="" class="header--text3">HOME</a>
-                <a href="" class="header--text3">OUR SERVICES</a>
-                <a href="" class="header--text3">DESTINATIONS</a>
-                <a href="" class="header--text3">TOUR PACKAGES</a>
-                <a href="" class="header--text3">CONTACT US</a>
+                <a href="../index.php" class="header--text3">HOME</a>
+                <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
+                <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
+                <div class="dropdown">
+                    <button class="dropbtn">TOUR PACKAGES
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="#">SHUTTER TOUR</a>
+                        <a href="#">CITY TOURS</a>
+                        <a href="#">SAFARI TOURS</a>
+                        <a href="#">ANIMAL WATCHING</a>
+                        <a href="#">ROUND TOURS</a>
+                        <a href="#">ADVENTURE</a>
+                        <a href="#">SPECIAL PACKAGES</a>
+                    </div>
+                </div>
+                <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
             </div>
 
         </div>
@@ -95,11 +108,11 @@
                     <a href="#home"><img src="../resources/logo_lg.png" class="logo1"></a>
                     <div class="topnav2">
                         <div id="myLinks" class="topnav3">
-                            <a href="" class="header--text3">HOME</a>
-                            <a href="" class="header--text3">OUR SERVICES</a>
-                            <a href="" class="header--text3">DESTINATIONS</a>
-                            <a href="" class="header--text3">TOUR PACKAGES</a>
-                            <a href="" class="header--text3">CONTACT US</a>
+                            <a href="../index.php" class="header--text3">HOME</a>
+                            <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
+                            <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
+                            <a href="../packages/packages.php" class="header--text3">TOUR PACKAGES</a>
+                            <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
                         </div>
                         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                             <img src="../resources/menus1.png " class="logo2">

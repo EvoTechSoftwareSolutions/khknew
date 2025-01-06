@@ -311,7 +311,7 @@
                 <div class="sec5--div7">
                     <div class="sec5--div8">
                         <span class="sec5--span1"> Yala National Park</span>
-                        <div class="sec5--div6"><img src="../resources/tour_packages/yala.jpg" class="sec5--img1"></div>
+                        <div class="sec5--div6"><img src="../resources/tour_packages/Yala.jpg" class="sec5--img1"></div>
                         <span class="sec5--span2">
                             Known for the highest leopard concentration in the world, Yala also shelters elephants,
                             sloth bears, and bird species. Visitors enjoy safaris across its varied ecosystems.</span>
