@@ -6,9 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="des.css">
+    <link rel="icon" href="../resources/logo.png" />
+    <link rel="stylesheet" href="../Header/header.css">
+    <link rel="stylesheet" href="footer.css">
 </head>
 
 <body>
+ <!-- Header -->
+ <?php include "../Header/header.php"; ?>
+    <!-- Header -->
 
     <section class="des--sec1">
         <div class="des--sec1--div1">
@@ -1177,11 +1183,13 @@
 
     <br>
 
+ <!-- Footer -->
+ <?php include "../Footer/footer.php"; ?>
+    <!-- Footer -->
 
 
 
-
-
+    <script src="../Header/header.js"></script>
 
     <script src="des.js"></script>
 </body>
