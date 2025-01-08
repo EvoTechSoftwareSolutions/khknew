@@ -36,7 +36,7 @@
                         <a href="#">ANIMAL WATCHING</a>
                         <a href="#">ROUND TOURS</a>
                         <a href="#">ADVENTURE</a>
-                        <a href="#">SPECIAL PACKAGES</a>
+                        <a href="../tourpack/tourpack.php">SPECIAL PACKAGES</a>
                     </div>
                 </div>
                 <!-- <a href="" class="header--text"></a> -->

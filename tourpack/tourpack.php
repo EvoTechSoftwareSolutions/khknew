@@ -19,8 +19,18 @@
     <!-- Header -->
     <?php include "../header/header.php"; ?>
     <!-- Header -->
-
+   
+   
+   
+   
+   
+    <div class="space"></div>
+   
+   
+   
     <br>
+ 
+
     <div class="start--div"></div>
 
     <div class="banner">
@@ -29,7 +39,7 @@
     <section class="tourpack-sec1">
         <div class="home--sec4--div1">
             <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br><br>
-            <span class="home--sec4--div1--heading2">3-Day Packages</span>
+            <span class="home--sec4--div1--heading2">4-Day Packages</span>
         </div>
 
         <!-- <div class="home--sec4--div2"> -->
@@ -40,23 +50,24 @@
                     <img src="../resources/des/Colombo.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content1">
-                    <span class="card1--heading1">Colombo City Highlights</span>
+                    <span class="card1--heading1">Cultural Escape</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Discover the vibrant capital of Colombo, where modernity meets.</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Discover Sri Lanka’s rich cultural heritage with a blend of ancient temples, historic sites, and breathtaking landscapes.</li> <br>
                             <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         </ul>
 
                         <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival and city tour including Gangaramaya Temple, Colombo National Museum, and Galle Face Green.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore the bustling Pettah Market, Independence Square, and enjoy a sunset at Mount Lavinia Beach.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Shopping at Colombo's top malls and departure.</li>
+                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Colombo, visit Gangaramaya Temple, and explore the bustling Pettah market before transferring to Negombo.</li>
+                            <li><b>Day 2&nbsp;:&nbsp;</b>Climb Sigiriya Rock Fortress, explore frescoes, and enjoy a traditional village safari.</li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b>Tour the Dambulla Cave Temple with its ancient statues and murals, then attend a cultural dance show in Kandy.</li>
+                            <li><b>Day 4&nbsp;:&nbsp;</b>Visit the Temple of the Tooth Relic, explore Peradeniya Botanical Gardens, and depart.</li>
                         </ul>
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
