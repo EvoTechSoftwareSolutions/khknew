@@ -49,11 +49,11 @@
                         <div class="content">
                             <p>elephants</p>
                             <h2>Gentle Giants</h2>
-                            <p>
-                                "Immerse yourself in the awe-inspiring presence of elephants, whether roaming freely in
+                            <p class="des">
+                                Immerse yourself in the awe-inspiring presence of elephants, whether roaming freely in
                                 national parks or gathering at watering holes. These gentle giants are a cornerstone of
                                 Sri Lanka's wildlife heritage, offering a glimpse into the island’s rich natural
-                                history." </p>
+                                history. </p>
                         </div>
                     </div>
                     <div class="item">
@@ -61,10 +61,10 @@
                         <div class="content">
                             <p>leopard</p>
                             <h2>Wildlife Wonders</h2>
-                            <p>
-                                "Embark on a safari through the dense jungles of Sri Lanka, where you can encounter the
+                            <p class="des">
+                                Embark on a safari through the dense jungles of Sri Lanka, where you can encounter the
                                 majestic leopard, the island's apex predator. Witness its grace and power as it roams
-                                the wild, offering an unforgettable wildlife experience." </p>
+                                the wild, offering an unforgettable wildlife experience.</p>
                         </div>
                     </div>
                     <div class="item">
@@ -72,10 +72,10 @@
                         <div class="content">
                             <p>Nine Arches Bridge</p>
                             <h2>Scenic Trails</h2>
-                            <p>
-                                "Marvel at the breathtaking Nine Arches Bridge in Ella, a stunning example of
+                            <p class="des">
+                                Marvel at the breathtaking Nine Arches Bridge in Ella, a stunning example of
                                 colonial-era engineering surrounded by lush tea plantations. This picturesque location
-                                is perfect for photography and serene nature walks." </p>
+                                is perfect for photography and serene nature walks.</p>
                         </div>
                     </div>
                     <div class="item">
@@ -83,10 +83,10 @@
                         <div class="content">
                             <p>stilt fishing</p>
                             <h2>Coastal Traditions</h2>
-                            <p>
-                                "Discover the timeless practice of stilt fishing along Sri Lanka’s southern coast.
+                            <p class="des">
+                                Discover the timeless practice of stilt fishing along Sri Lanka’s southern coast.
                                 Observe local fishermen perched on slender poles as they skillfully catch fish, blending
-                                tradition with the beauty of the Indian Ocean." </p>
+                                tradition with the beauty of the Indian Ocean.</p>
                         </div>
                     </div>
 
