@@ -12,12 +12,12 @@
 </head>
 
 <body>
- <!-- Header -->
- <?php include "../Header/header.php"; ?>
+    <!-- Header -->
+    <?php include "../Header/header.php"; ?>
     <!-- Header -->
 
     <div class="space1"></div>
-    
+
     <section class="des--sec1">
         <div class="des--sec1--div1">
             <div class="des--sec1--div2">
@@ -1185,8 +1185,8 @@
 
     <br>
 
- <!-- Footer -->
- <?php include "../Footer/footer.php"; ?>
+    <!-- Footer -->
+    <?php include "../Footer/footer.php"; ?>
     <!-- Footer -->
 
 

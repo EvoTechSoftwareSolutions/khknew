@@ -806,9 +806,15 @@ margin-top: -2rem;
 
 
 .sec5--img1 {
-    width: 180px;
-    height: 180px;
+    width: 14rem;
+    height: 14rem;
     border-radius: 60%;
+
+}
+
+.sec5--img2 {
+    width: 18rem;
+   
 
 }
 
@@ -1092,8 +1098,14 @@ margin-top: -2rem;
     }
 
     .sec5--img1 {
-        width: 250px;
-        height: 250px;
+        width: 25rem;
+      
+
+    }
+
+    .sec5--img2 {
+        width: 25rem;
+      
 
     }
 

@@ -288,7 +288,7 @@
                 <div class="sec5--div7">
                     <div class="sec5--div8">
                         <span class="sec5--span1">Sigiriya Rock Fortress</span>
-                        <div class="sec5--div6"><img src="../resources/tour_packages/sigiriya.jpg" class="sec5--img1">
+                        <div class="sec5--div6"><img src="../resources/des/sigiriya.jpg" class="sec5--img1">
                         </div>
                         <span class="sec5--span2">
                             A 5th-century ancient fortress built on a massive rock column, Sigiriya features frescoes,
@@ -299,7 +299,7 @@
                 <div class="sec5--div7">
                     <div class="sec5--div8">
                         <span class="sec5--span1">Temple of the Tooth</span>
-                        <div class="sec5--div6"><img src="../resources/tour_packages/dalada.jpg" class="sec5--img1">
+                        <div class="sec5--div6"><img src="../resources/des/dalada.jpg" class="sec5--img1">
                         </div>
                         <span class="sec5--span2">
                             Located in Kandy, this temple houses the sacred tooth relic of Lord Buddha. It’s a revered
@@ -310,7 +310,7 @@
                 <div class="sec5--div7">
                     <div class="sec5--div8">
                         <span class="sec5--span1"> Yala National Park</span>
-                        <div class="sec5--div6"><img src="../resources/tour_packages/Yala.jpg" class="sec5--img1"></div>
+                        <div class="sec5--div6"><img src="../resources/des/Yala.jpg" class="sec5--img1"></div>
                         <span class="sec5--span2">
                             Known for the highest leopard concentration in the world, Yala also shelters elephants,
                             sloth bears, and bird species. Visitors enjoy safaris across its varied ecosystems.</span>
@@ -338,7 +338,7 @@
 
                 <div class="sec5--div14">
                     <div class="sec5--div17">
-                        <img src="../resources/des/seegiriya.png" class="sec5--img1">
+                        <img src="../resources/des/seegiriya.png" class="sec5--img2">
                         <div class="sec5--div15">
                             <span class="sec5--span3">Sigiriya Rock Fortress</span>
                             <span class="sec5--span4">
@@ -361,11 +361,11 @@
                                 pilgrimage site for Buddhists and a UNESCO World Heritage Site with traditional Kandyan
                                 architecture.</span>
                         </div>
-                        <img src="../resources/des/maligawa.png" class="sec5--img1">
+                        <img src="../resources/des/maligawa.png" class="sec5--img2">
                     </div>
 
                     <div class="sec5--div17">
-                        <img src="../resources/des/yala.png" class="sec5--img1">
+                        <img src="../resources/des/yala.png" class="sec5--img2">
                         <div class="sec5--div15">
                             <span class="sec5--span3">Yala National Park</span>
                             <span class="sec5--span4">
