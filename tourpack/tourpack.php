@@ -92,21 +92,28 @@
                     <img src="../resources/tourpack/galle.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content2">
-                    <span class="card1--heading1">Galle Fort & Southern Beaches</span>
+                    <span class="card1--heading1">Scenic Adventure</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Explore the UNESCO World Heritage site of Galle Fort and relax on the stunning southern beaches.</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>A picturesque journey through Sri Lanka’s scenic landscapes, including lush tea plantations and serene mountain peaks.</li> <br>
                             <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         </ul>
 
                         <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Galle, explore Galle Fort’s colonial architecture and lighthouse.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Visit Hikkaduwa Beach for snorkeling and water sports.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Relax at Unawatuna Beach and departure.</li>
+                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Kandy, visit the Royal Palace, Kandy Lake, and enjoy a cultural show.</li>
+                            <li><b>Day 2&nbsp;:&nbsp;</b>Take a scenic train ride through lush tea plantations to Nuwara Eliya, stopping at tea factories.</li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b>Trek through Horton Plains National Park to see World's End and Baker's Falls, then head to Ella.</li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit Nine Arches Bridge and Little Adam's Peak before departing via Colombo.</li>
                         </ul>
 
                         <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
 
                         </ul>
 
@@ -140,6 +147,16 @@
                             <li><b>Day 3&nbsp;:&nbsp;</b>Visit the Minneriya National Park for a safari and departure.</li>
                         </ul>
 
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+
+                        </ul>
+
                     </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
@@ -171,6 +188,16 @@
                             <li><b>Day 3&nbsp;:&nbsp;</b>Visit local markets, explore the Bahirawakanda Buddha Statue, and departure.</li>
                         </ul>
 
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+
+                        </ul>
+
                     </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
@@ -200,6 +227,15 @@
                             <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Negombo, visit the fish market and Dutch Canal.</li>
                             <li><b>Day 2&nbsp;:&nbsp;</b>Lagoon boat ride and beach relaxation.</li>
                             <li><b>Day 3&nbsp;:&nbsp;</b>Explore Negombo’s colonial churches and departure.</li>
+                        </ul>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+
                         </ul>
 
                     </span>
@@ -244,6 +280,16 @@
                             <li><b>Day 4&nbsp;:&nbsp;</b> Climb Sigiriya Rock Fortress and visit Pidurangala Rock.</li>
                             <li><b>Day 5&nbsp;:&nbsp;</b> Visit Dambulla Cave Temple and transfer to Kandy.</li>
                             <li><b>Day 6&nbsp;:&nbsp;</b> Explore Kandy’s Temple of the Tooth Relic and depart.</li>
+                        </ul>
+
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+
                         </ul>
 
                     </span>
