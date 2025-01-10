@@ -178,6 +178,19 @@ body {
 
 }
 
+.des--sec5--img2 {
+    width: 18rem;
+  
+
+}
+
+
+
+
+
+
+
+
 .des--sec5--img1 {
     width: 180px;
     height: 180px;
@@ -446,6 +459,11 @@ justify-content: center;
 
     }
 
+    .des--sec5--img2 {
+        width: 21rem;
+      
+    
+    }
     .des--sec5--div11 {
         width: 110vh;
         margin-left: 1rem;

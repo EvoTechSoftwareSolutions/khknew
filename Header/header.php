@@ -30,7 +30,7 @@
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">SHUTTER TOUR</a>
+                        <a href="../tour/tourpack.php">SHUTTER TOUR</a>
                         <a href="#">CITY TOURS</a>
                         <a href="#">SAFARI TOURS</a>
                         <a href="#">ANIMAL WATCHING</a>

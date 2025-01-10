@@ -20,25 +20,16 @@
     <?php include "../header/header.php"; ?>
     <!-- Header -->
 
-
-
-
-
     <!-- <div class="space"></div> -->
-
-
-
-    <br>
-
 
     <div class="start--div"></div>
 
-    <div class="banner">
-        <!-- <img src="../resources/pack.jpg" class="bannerimg"> -->
-    </div>
+    <!-- <div class="banner">
+        <img src="../resources/pack.jpg" class="bannerimg">
+    </div> -->
     <section class="tourpack-sec1">
         <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br><br>
+            <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br>
             <span class="home--sec4--div1--heading2">4-Day Packages</span>
         </div>
 

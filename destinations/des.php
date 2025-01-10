@@ -51,7 +51,7 @@
                     <div class="des--sec5--div8">
                         <span class="des--sec5--span1">Sigiriya Rock Fortress</span>
                         <div class="des--sec5--div6">
-                            <img src="../resources/tour_packages/sigiriya.jpg" class="des--sec5--img1">
+                            <img src="../resources/des/sigiriya.jpg" class="des--sec5--img1">
                         </div>
                         <span class="des--sec5--span2">
                             Sigiriya, often called the "Eighth Wonder of the World," is an iconic ancient fortress
@@ -69,7 +69,7 @@
                 <div class="des--sec5--div7">
                     <div class="des--sec5--div8">
                         <span class="des--sec5--span1">Temple of the Tooth</span>
-                        <div class="des--sec5--div6"><img src="../resources/tour_packages/dalada.jpg"
+                        <div class="des--sec5--div6"><img src="../resources/des/dalada.jpg"
                                 class="des--sec5--img1">
                         </div>
                         <span class="des--sec5--span2">
@@ -88,7 +88,7 @@
                 <div class="des--sec5--div7">
                     <div class="des--sec5--div8">
                         <span class="des--sec5--span1"> Yala National Park</span>
-                        <div class="des--sec5--div6"><img src="../resources/tour_packages/yala.jpg"
+                        <div class="des--sec5--div6"><img src="../resources/des/yala.jpg"
                                 class="des--sec5--img1"></div>
                         <span class="des--sec5--span2">
                             Yala National Park, located in southeastern Sri Lanka, is a haven for wildlife enthusiasts
@@ -197,7 +197,7 @@
                 <div class="des--sec5--div7">
                     <div class="des--sec5--div8">
                         <span class="des--sec5--span1">Anuradhapura</span>
-                        <div class="des--sec5--div6"><img src="../resources/tour_packages/dalada.jpg"
+                        <div class="des--sec5--div6"><img src="../resources/des/Anuradhapura.jpg"
                                 class="des--sec5--img1">
                         </div>
                         <span class="des--sec5--span2">
@@ -493,8 +493,7 @@
                 <div class="des--sec5--div14">
 
                     <div class="des--sec5--div17">
-                        <div class="des--sec5--div18"><img src="../resources/tour_packages/sigiriya.jpg"
-                                class="des--sec5--img1">
+                        <div class="des--sec5--div18"><img src="../resources/des/seegiriya.png" class="des--sec5--img2">
                         </div>
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Sigiriya Rock Fortress</span>
@@ -531,12 +530,12 @@
                                 a cultural experience, allowing travelers to connect with Sri Lanka’s deep-rooted
                                 Buddhist heritage.</span>
                         </div>
-                        <img src="../resources/tour_packages/dalada.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/maligawa.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Yala.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/yala.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Yala National Park</span>
                             <span class="des--sec5--span4">
@@ -572,13 +571,13 @@
                                 scenes makes it a captivating destination for travelers looking to experience Sri
                                 Lanka’s heritage.</span>
                         </div>
-                        <img src="../resources/des/Galle Fort.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/galle_fort.png" class="des--sec5--img2">
                     </div>
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Ella.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/ella.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Ella</span>
                             <span class="des--sec5--span4">
@@ -610,13 +609,13 @@
                                 wildlife conservation make it both an educational and heartwarming experience for
                                 visitors of all ages.</span>
                         </div>
-                        <img src="../resources/des/Pinnawala Elephant Orphanage.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/pinnawala.png" class="des--sec5--img2">
                     </div>
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Dambulla Cave Temple.jpeg" class="des--sec5--img1">
+                        <img src="../resources/des/dambulla.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Dambulla Cave Temple</span>
                             <span class="des--sec5--span4">
@@ -646,11 +645,11 @@
                                 spirituality with natural beauty as travelers encounter cascading waterfalls, lush
                                 forests, and a diverse array of flora and fauna along the way.</span>
                         </div>
-                        <img src="../resources/des/Adam’s Peak (Sri Pada).jpg" class="des--sec5--img1">
+                        <img src="../resources/des/adams_peak.png" class="des--sec5--img2">
                     </div>
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Mirissa Beach.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/mirissa.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Mirissa Beach</span>
                             <span class="des--sec5--span4">
@@ -681,12 +680,12 @@
 
                             </span>
                         </div>
-                        <img src="../resources/des/Ancient City of Polonnaruwa.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/polonnaruwa.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Anuradhapura.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/anuradhapura.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Anuradhapura</span>
                             <span class="des--sec5--span4">
@@ -715,13 +714,13 @@
                                 with many endemic species. The park’s tranquil atmosphere and breathtaking landscapes
                                 make it a must-visit destination for those seeking a connection with nature.</span>
                         </div>
-                        <img src="../resources/des/Horton Plains National Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/hortain.png" class="des--sec5--img2">
                     </div>
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Udawalawe National Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/udawalawaweb.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Udawalawe National Park</span>
                             <span class="des--sec5--span4">
@@ -749,13 +748,13 @@
                                 local wildlife. With luxurious resorts, Ayurvedic spas, and vibrant sunsets, Bentota
                                 Beach is a favorite among honeymooners and travelers seeking a tranquil escape.</span>
                         </div>
-                        <img src="../resources/des/Bentota Beach.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/bentota.png" class="des--sec5--img2">
                     </div>
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Nuwara Eliya.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/nuwaraeliya.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Nuwara Eliya</span>
                             <span class="des--sec5--span4">
@@ -785,11 +784,11 @@
                                 fresh seafood, makes Arugam Bay a favorite destination for both adventure and
                                 relaxation.</span>
                         </div>
-                        <img src="../resources/des/Arugam Bay.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/arugambay.png" class="des--sec5--img2">
                     </div>
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Trincomalee.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/trinco.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Trincomalee</span>
                             <span class="des--sec5--span4">
@@ -817,12 +816,12 @@
                                 Delft Island, where wild ponies roam. With its unique cultural identity and warm
                                 hospitality, Jaffna offers an enriching travel experience.</span>
                         </div>
-                        <img src="../resources/des/Jaffna.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/jaffna.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Sinharaja Forest Reserve.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/sinharaja.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Sinharaja Forest Reserve</span>
                             <span class="des--sec5--span4">
@@ -852,12 +851,12 @@
                                 significance. With its thrilling activities and serene natural surroundings, Kitulgala
                                 is a perfect destination for adrenaline seekers and nature enthusiasts.</span>
                         </div>
-                        <img src="../resources/des/Kitulgala.png" class="des--sec5--img1">
+                        <img src="../resources/des/Kithulgala.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Minneriya National Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/minneriya.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Minneriya National Park</span>
                             <span class="des--sec5--span4">
@@ -887,13 +886,13 @@
                                 simply enjoy the scenic beauty. Its combination of mythological significance and natural
                                 splendor makes Ravana Falls a captivating stop for travelers.</span>
                         </div>
-                        <img src="../resources/des/Ravana Falls.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/ravana.png" class="des--sec5--img2">
                     </div>
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Pigeon Island National Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/pigeon_island.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Pigeon Island National Park</span>
                             <span class="des--sec5--span4">
@@ -923,14 +922,14 @@
                                 connecting Minneriya and Wasgamuwa National Parks, making it a crucial habitat for
                                 wildlife conservation.</span>
                         </div>
-                        <img src="../resources/des/Kaudulla-National-Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/kaudulla.png" class="des--sec5--img2">
                     </div>
 
 
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Sri Maha Bodhi Tree.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/sri.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Sri Maha Bodhi Tree</span>
                             <span class="des--sec5--span4">
@@ -960,11 +959,11 @@
                                 adventure seekers and beach lovers.
                             </span>
                         </div>
-                        <img src="../resources/des/Hikkaduwa Beach.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/hikkaduwa.png" class="des--sec5--img2">
                     </div>
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Kelaniya Raja Maha Vihara.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/kelaniya.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Kelaniya Raja Maha Vihara</span>
                             <span class="des--sec5--span4">
@@ -992,12 +991,12 @@
                                 exploration. Safari tours offer a chance to experience the park’s rich biodiversity
                                 while enjoying its tranquil landscapes.</span>
                         </div>
-                        <img src="../resources/des/Bundala National Park.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/bundala.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Knuckles Mountain Range.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/knuckles.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Knuckles Mountain Range</span>
                             <span class="des--sec5--span4">
@@ -1025,11 +1024,11 @@
                                 also explore nearby mangroves and fishing villages, adding cultural depth to their
                                 trip.</span>
                         </div>
-                        <img src="../resources/des/Kalpitiya.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/kalpitiya.png" class="des--sec5--img2">
                     </div>
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Delft Island.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/delf.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Delft Island</span>
                             <span class="des--sec5--span4">
@@ -1057,10 +1056,10 @@
                                 setting, cool climate, and tranquil waters make Gregory Lake a perfect retreat for
                                 relaxation and outdoor activities.</span>
                         </div>
-                        <img src="../resources/des/Gregory Lake.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/gregory.png" class="des--sec5--img2">
                     </div>
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Mahiyanganaya.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/mahiyangana.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Mahiyanganaya</span>
                             <span class="des--sec5--span4">
@@ -1088,12 +1087,12 @@
                                 historical touch to the town. With its serene environment and cultural landmarks,
                                 Badulla offers a peaceful retreat for travelers.</span>
                         </div>
-                        <img src="../resources/des/Badulla.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/badulla.png" class="des--sec5--img2">
                     </div>
 
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Avukana Buddha Statue.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/awkana.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Avukana Buddha Statue</span>
                             <span class="des--sec5--span4">
@@ -1122,10 +1121,10 @@
                                 destination for history buffs and those interested in Sri Lanka’s diverse religious
                                 heritage.</span>
                         </div>
-                        <img src="../resources/des/Munneswaram Temple.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/munneshwaram.png" class="des--sec5--img2">
                     </div>
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Galle Face Green.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/galle_face.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Galle Face Green</span>
                             <span class="des--sec5--span4">
@@ -1154,11 +1153,11 @@
                                 Its blend of history, adventure, and natural beauty makes it a must-visit for
                                 travelers.</span>
                         </div>
-                        <img src="../resources/des/Pidurangala Rock.jpeg" class="des--sec5--img1">
+                        <img src="../resources/des/pidurangala.png" class="des--sec5--img2">
                     </div>
 
                     <div class="des--sec5--div17">
-                        <img src="../resources/des/Seetha Amman Temple.jpg" class="des--sec5--img1">
+                        <img src="../resources/des/seetha.png" class="des--sec5--img2">
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Seetha Amman Temple</span>
                             <span class="des--sec5--span4">
