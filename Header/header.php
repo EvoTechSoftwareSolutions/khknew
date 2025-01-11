@@ -30,13 +30,13 @@
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                        <a href="../tour/tourpack.php">SHUTTER TOUR</a>
-                        <a href="#">CITY TOURS</a>
-                        <a href="#">SAFARI TOURS</a>
-                        <a href="#">ANIMAL WATCHING</a>
-                        <a href="#">ROUND TOURS</a>
-                        <a href="#">ADVENTURE</a>
-                        <a href="../tourpack/tourpack.php">SPECIAL PACKAGES</a>
+                        <a href="../tour/tourpack.php#shutter">SHUTTER TOUR</a>
+                        <a href="../tour/tourpack.php#city">CITY TOURS</a>
+                        <a href="../tour/tourpack.php#safari">SAFARI TOURS</a>
+                        <a href="../tour/tourpack.php#animal">ANIMAL WATCHING</a>
+                        <a href="../tour/tourpack.php#round">ROUND TOURS</a>
+                        <a href="../tour/tourpack.php#adventure">ADVENTURE</a>
+                        <a href="../tour/tourpack2.php">SPECIAL PACKAGES</a>
                     </div>
                 </div>
                 <!-- <a href="" class="header--text"></a> -->

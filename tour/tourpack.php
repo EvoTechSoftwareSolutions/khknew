@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KHK TOURS</title>
 
-    <link rel="icon" href="../resources/logo_lg.png"/>
+    <link rel="icon" href="../resources/logo_lg.png" />
     <link rel="stylesheet" href="tourpack.css">
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="../Footer/footer.css">
@@ -27,33 +27,34 @@
     <!-- <div class="banner">
         <img src="../resources/pack.jpg" class="bannerimg">
     </div> -->
-    <section class="tourpack-sec1">
+    <section class="tourpack-sec1" id="shutter">
         <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br>
-            <span class="home--sec4--div1--heading2">4-Day Packages</span>
+            <span class="home--sec4--div1--heading1">Shutter TOURS</span><br>
+            <!-- <span class="home--sec4--div1--heading2">4-Day Packages</span> -->
         </div>
 
-        <!-- <div class="home--sec4--div2"> -->
-        <!-- <div class="home--sec4--div4"> -->
+
         <div class="cardContainer">
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/des/Colombo.jpg" class="card1">
+                    <img src="../resources/des/Nuwara Eliya.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content1">
-                    <span class="card1--heading1">Cultural Escape</span>
+                    <span class="card1--heading1">KANDY TO ELLA SHUTTER TOURS</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Discover Sri Lanka’s rich cultural heritage with a blend of ancient temples, historic sites, and breathtaking landscapes.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Experience&nbsp;:&nbsp;</b>When you travel from Kandy to Ella city we hope to make your trip an unforgettable trip of your life. Therefore, you can also visit Ambuluawa Tower and Damro Tea Factory. Also, have lunch in Nuwara Eliya and see the Gregory Lake and Sita Amman Temple and the beauty of Nuwara Eliya. You can visit Ella city from Kandy starting at 7.00 am from the city and it will take you 10 hours to travel.</li> <br>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Colombo, visit Gangaramaya Temple, and explore the bustling Pettah market before transferring to Negombo.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Climb Sigiriya Rock Fortress, explore frescoes, and enjoy a traditional village safari.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Tour the Dambulla Cave Temple with its ancient statues and murals, then attend a cultural dance show in Kandy.</li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b>Visit the Temple of the Tooth Relic, explore Peradeniya Botanical Gardens, and depart.</li>
+                            <li><b>MAIN DESTINATIONS&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Ambuluwawa Tower</li>
+                            <li>Damro Tea Plantation</li>
+                            <li>Gregory Lake</li>
+
                         </ul>
 
                         <ul>
@@ -63,8 +64,14 @@
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
                             <li>Water bottle and Refreshments</li>
+                            <li>Lunch (Helabojun)</li>
+                            <li>Hotel pickup and drop off</li>
 
                         </ul>
+
+
+
+
 
                     </span>
                     <div class="button--card">
@@ -78,119 +85,214 @@
 
             </article>
 
+
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/galle.png" class="card1">
+                    <img src="../resources/des/Yala.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content2">
-                    <span class="card1--heading1">Galle Fort & Southern Beaches</span>
+                    <span class="card1--heading1">MIRISSA TO ELLA SHUTTER TOURS</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Explore the UNESCO World Heritage site of Galle Fort and relax on the stunning southern beaches.</li> <br>
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                            <li><b>Experience&nbsp;:&nbsp;</b>Enjoy a transfer from the cities of Hirikatiya, Mirissa, Weligama or Galle to your hotel in the Ella area. Stop at Yala National Park and Udawalawe National Park to witness the wild animals in their natural habitats along the way and enjoy the beauty of the environment with an array of interesting and never-before-seen experiences at your destination.</li> <br>
+
                         </ul>
 
-                        <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Galle, explore Galle Fort’s colonial architecture and lighthouse.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Visit Hikkaduwa Beach for snorkeling and water sports.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Relax at Unawatuna Beach and departure.</li>
-                        </ul>
+
 
                         <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+
 
                         </ul>
+
+                        <ul>
+                            <li><b>MORNING SAFARI&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Breakfast</li>
+                            <li>Water Bottle</li>
+
+                        </ul>
+
+                        <ul>
+                            <li><b>EVENING SAFARI&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Refreshment Drink</li>
+                            <li>Water Bottle</li>
+
+                        </ul>
+
+
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
                     <button class="todo--readmore" onclick="readmore(2);" id="card--showMore2">Read&nbsp;More&nbsp;&#11167;</button>
                     <button class="todo--readmore" onclick="readless(2);" id="card--showLess2" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
+
             </article>
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/cardimg/sigiriya.png" class="card1">
+                    <img src="../resources/des/Trincomalee.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content3">
-                    <span class="card1--heading1">Sigiriya & Dambulla Express</span>
+                    <span class="card1--heading1">COLOMBO TO TRINCO SHUTTER TOURS</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Visit two of Sri Lanka's most iconic UNESCO World Heritage sites..</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Experience&nbsp;:&nbsp;</b>You can visit Minneriya or Kaudulla National Parks on your way from Colombo to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 8.00 am and lasts for 12 hours</li> <br>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+
+
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Sigiriya, climb the Sigiriya Rock Fortress.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore the Dambulla Cave Temple and take a village tour.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit the Minneriya National Park for a safari and departure.</li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
                         </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+                            <li>Safari Jeep</li>
+                            <li>With /Without national park entrance frees with taxes</li>
+                            <li>Hotel pickup and drop off</li>
+                            <li>4×4 Luxury safari Jeep</li>
+                            <li>Safari Jeep Driver with extensive experience</li>
+                            <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+
+                        </ul>
+
+                        <ul>
+                            <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Fresh fruit platter</li>
+                            <li>Water bottles during tour</li>
+
+                        </ul>
+
+
+
+
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
                     <button class="todo--readmore" onclick="readmore(3);" id="card--showMore3">Read&nbsp;More&nbsp;&#11167;</button>
                     <button class="todo--readmore" onclick="readless(3);" id="card--showLess3" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
+
             </article>
 
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/kandy.png" class="card1">
+                    <img src="../resources/des/Minneriya National Park.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content4">
-                    <span class="card1--heading1">Kandy Cultural Tour</span>
+                    <span class="card1--heading1">KANDY TO TRINCO SHUTTER TOURS</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Immerse yourself in the culture and history of Kandy.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Experience&nbsp;:&nbsp;</b>You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.</li> <br>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+
+
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Kandy, visit the Temple of the Tooth Relic and Kandy Lake.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore Peradeniya Botanical Gardens and enjoy a traditional Kandyan dance show.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit local markets, explore the Bahirawakanda Buddha Statue, and departure.</li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
                         </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+                            <li>Safari Jeep</li>
+                            <li>With /Without national park entrance frees with taxes</li>
+                            <li>Hotel pickup and drop off</li>
+                            <li>4×4 Luxury safari Jeep</li>
+                            <li>Safari Jeep Driver with extensive experience</li>
+                            <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+
+                        </ul>
+
+                        <ul>
+                            <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Fresh fruit platter</li>
+                            <li>Water bottles during tour</li>
+
+                        </ul>
+
+
+
+
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
                     <button class="todo--readmore" onclick="readmore(4);" id="card--showMore4">Read&nbsp;More&nbsp;&#11167;</button>
                     <button class="todo--readmore" onclick="readless(4);" id="card--showLess4" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
+
             </article>
 
 
+
+
+
+        </div>
+        <!-- </div> -->
+        <!-- </div> -->
+        <!-- </div> -->
+
+        <div class="home--sec4--div1" id="city">
+            <span class="home--sec4--div1--heading1">CITY TOURS</span>
+        </div>
+        <div class="cardContainer">
+
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/negombo.png" class="card1">
+                    <img src="../resources/des/Mirissa Beach.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content5">
-                    <span class="card1--heading1">Negombo Lagoon & Beaches</span>
+                    <span class="card1--heading1">MIRISSA CITY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Relax in the coastal town of Negombo, known for its lagoon and beaches.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>6 Hour Private Tour</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>You can schedule this as per your wish</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                        </ul>
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Negombo, visit the fish market and Dutch Canal.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Lagoon boat ride and beach relaxation.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Explore Negombo’s colonial churches and departure.</li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle </li>
+                            <li>Hotel pickup and drop off</li>
+                            <li>Boat ride</li>
+                            <li>Fruit plate</li>
+
+
                         </ul>
 
                     </span>
@@ -205,36 +307,29 @@
             </article>
 
 
-        </div>
-        <!-- </div> -->
-        <!-- </div> -->
-        <!-- </div> -->
-
-        <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading2">6-Day Packages</span>
-        </div>
-        <div class="cardContainer">
-
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/cultural.png" class="card1">
+                    <img src="../resources/des/Galle Fort.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content6">
-                    <span class="card1--heading1">Cultural Triangle Journey </span>
+                    <span class="card1--heading1">Galle CITY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Explore Sri Lanka’s ancient cities and UNESCO World Heritage sites. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>6 Hour Private Tour</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>You can schedule this as per your wish</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Galle city tour will take you towards the beautiful beach where you can see Dala Wella beach and jungle beaches. stilt fishing men, and spice gardens, white tea factory, turtle breeding and amazingly beautiful beaches Japanese temple close to the beautiful beach and finally we go to Galle Dutch Fort. Galle on the southwest coast of Sri Lanka by the bay was first built by the Portuguese in 1588. and then extensively fortified by the Dutch in the 17th century from 1649. It is a historical, archaeological and architectural heritage monument that maintains a polished look even after more than 423 years.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                        </ul>
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Anuradhapura, visit ancient temples and stupas.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore Mihintale and the sacred Bodhi Tree. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b> Visit Polonnaruwa, exploring ancient ruins and sculptures.</li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b> Climb Sigiriya Rock Fortress and visit Pidurangala Rock.</li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b> Visit Dambulla Cave Temple and transfer to Kandy.</li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b> Explore Kandy’s Temple of the Tooth Relic and depart.</li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and refreshment</li>
+                            <li>Hotel pickup and drop off</li>
+
+
                         </ul>
 
                     </span>
@@ -248,27 +343,29 @@
                 </div>
             </article>
 
-
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/hill.png" class="card1">
+                    <img src="../resources/des/dalada.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content7">
-                    <span class="card1--heading1"> Hill Country & Tea Plantations</span>
+                    <span class="card1--heading1">Kandy CITY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Discover the scenic beauty of Sri Lanka’s hill country and tea estates. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>6 Hour Private Tour</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>Morning 8.00AM to Evening 4.00PM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>If you are visiting Kandy city, you can join us and make your tour as per your wish and here you can see the beautiful temples like Tooth of Temple Kandy, Kandy View Point, Ambuluawa Tower and Peradeniya Flower Garden, Nelligala Temple.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                        </ul>
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Kandy, visit the Temple of the Tooth Relic.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Scenic train ride from Kandy to Nuwara Eliya. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b> Explore tea plantations and visit a tea factory.</li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b>Visit Horton Plains National Park and trek to World’s End. </li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b>Travel to Ella, hike Little Adam’s Peak, and visit Nine Arches Bridge. </li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b> Relax in Ella and departure.</li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and refreshment</li>
+                            <li>Hotel pickup and drop off</li>
+
+
                         </ul>
 
                     </span>
@@ -284,24 +381,27 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/wildlife.png" class="card1">
+                    <img src="../resources/des/Ella.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content8">
-                    <span class="card1--heading1"> Wildlife & Beach Combo</span>
+                    <span class="card1--heading1">ELLA ONE DAY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Experience Sri Lanka’s wildlife and southern beaches. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>12 Hour Private Tours</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>12 Hour Private ToursMorning 7.00AM to Evening 7.00PM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Another good trip we have is the trip starting from Mirissa, Weligama, Dikwella, Tangalle, Hikkaduwa. Here you can visit Ella Rock, Nine Arch Bridge, Little Adam's Peak, Ravana Waterfall and many other beautiful and attractive places.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                        </ul>
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Yala, evening safari in Yala National Park. </li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Morning safari in Yala, travel to Mirissa. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Whale watching in Mirissa and relax on the beach. </li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b> Visit Galle Fort and travel to Bentota.</li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b> Water sports in Bentota and visit a turtle hatchery.</li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b>Relax on Bentota Beach and departure. </li>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and refreshment</li>
+                            <li>Hotel pickup and drop off</li>
+
+
                         </ul>
 
                     </span>
@@ -315,31 +415,43 @@
                 </div>
             </article>
 
-
-
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/kitulgala.png" class="card1">
+                    <img src="../resources/des/sigiriya.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content9">
-                    <span class="card1--heading1"> Adventure in Kitulgala & Nuwara Eliya</span>
+                    <span class="card1--heading1">Sigiriya ONE DAY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Enjoy white-water rafting, scenic hikes, and tea country exploration.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Experience&nbsp;:&nbsp;</b>The Sigiriya Day Tour will commence from either Colombo, Kandy, or Negombo. Your first stopover will be Dambulla, and then you will travel to Sigiriya. A safari is also organized after the visit to Sigiriya Rock Fortress.
+
+                                This private tour will cover all the other must-see sightseeing destinations in a single day. A dedicated chauffer will attend to your party, and you can customize the itinerary with him. Private transportation will be provided so that your round trip will be stress-free and more comfortable</li> <br>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Kitulgala, white-water rafting on the Kelani River. </li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b> Explore the Belilena Cave and hike in the surrounding rainforest. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b> Travel to Nuwara Eliya, explore the town and Gregory Lake.</li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b> Visit a tea plantation and trek to Lover’s Leap waterfall. </li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b>Visit Horton Plains National Park and trek to World’s End. </li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b> Scenic drive through tea country and departure.</li>
+                            <li><b>MAIN DESTINATIONS&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Sigiriya rock fortress</li>
+                            <li>Dabulla Cave Temple</li>
+                            <li>Matale Hindu Temple</li>
+                            <li>Spice Garden</li>
+
                         </ul>
 
-                    </span>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Lunch</li>
+                            <li>Hotel pickup and drop off</li>
+
+                        </ul>
+
+                 </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
@@ -353,27 +465,41 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/east.png" class="card1">
+                    <img src="../resources/des/dalada.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content10">
-                    <span class="card1--heading1">Eastern Coast Explorer </span>
+                    <span class="card1--heading1">Kandy ONE DAY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Discover the hidden gems of Sri Lanka’s east coast. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Experience&nbsp;:&nbsp;</b>The Kandy Day Tour will commence from either Colombo, Negombo, or Kandy. After your breakfast in the hotel, the tour will start around 7.30 a.m. The first stopover will be the Pinnawala Elephant Orphanage, and then you will visit the Peradeniya Botanical Gardens. After that, you’ll have lunch before going to see the Kandy Cultural Dance Show. After that, your last visiting place will be the Temple of the Tooth Relic. The journey will end with a flight back to Colombo or Negombo, or with a drop-off at a hotel in Kandy. 
+
+Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters above sea level and 116 kilometers from Colombo.Being a mountain city, Kandy has a very friendly climate for visitors. As well, the area has many nice places to visit. We hope our Kandy Day Tour will bring you great joy and happiness.</li> <br>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Trincomalee, visit Koneswaram Temple. </li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Relax on Nilaveli Beach and explore Pigeon Island. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit hot springs in Kanniya and explore Trincomalee town. </li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b>Travel to Pasikuda, enjoy the beach. </li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b>Relax on Pasikuda Beach and visit Batticaloa. </li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b> Explore Batticaloa’s Dutch Fort and departure.</li>
+                            <li><b>MAIN DESTINATIONS&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pinnawala Elephant Orphanage </li>
+                            <li>Peradeniya Botanical Garden</li>
+                            <li>Kandy Culture Dance Show</li>
+                            <li>Temple Of the Tooth </li>
+
                         </ul>
 
-                    </span>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Lunch</li>
+                            <li>Hotel pickup and drop off</li>
+
+                        </ul>
+
+                 </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
@@ -383,6 +509,9 @@
                     <button class="todo--readmore" onclick="readless(10);" id="card--showLess10" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
+
+
+
         </div>
 
 
@@ -394,31 +523,33 @@
 
             <!-- <div class="tourpack-mid"> -->
             <div class="home--sec4--div1">
-                <span class="home--sec4--div1--heading2">15-Day Packages</span>
+                <span class="home--sec4--div1--heading1"></span>
             </div>
             <div class="cardContainer">
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/tourpack/wildlife.png" class="card1">
+                        <img src="../resources/des/Galle Fort.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content11">
-                        <span class="card1--heading1">Complete Cultural & Wildlife Experience </span>
+                    <div class="productCard--content collapse" id="card--content7">
+                        <span class="card1--heading1">ELLA ONE DAY TOUR</span>
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Experience&nbsp;:&nbsp;</b> A comprehensive tour covering Sri Lanka’s culture and wildlife. </li> <br>
-                                <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                            </ul>
+                                <li><b>Package&nbsp;:&nbsp;</b>12 Hour Private Tours</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>12 Hour Private ToursMorning 7.00AM to Evening 7.00PM</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Another good trip we have is the trip starting from Mirissa, Weligama, Dikwella, Tangalle, Hikkaduwa. Here you can visit Ella Rock, Nine Arch Bridge, Little Adam's Peak, Ravana Waterfall and many other beautiful and attractive places.</li> <br>
 
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                            </ul>
                             <ul>
-                                <li><b>Day 1-3&nbsp;:&nbsp;</b> Explore Anuradhapura and Mihintale. </li>
-                                <li><b>Day 4-5&nbsp;:&nbsp;</b> Visit Polonnaruwa and Minneriya National Park. </li>
-                                <li><b>Day 6-7&nbsp;:&nbsp;</b> Climb Sigiriya and explore Dambulla Cave Temple. </li>
-                                <li><b>Day 8-9&nbsp;:&nbsp;</b> Discover Kandy and Peradeniya Botanical Gardens. </li>
-                                <li><b>Day 10-11&nbsp;:&nbsp;</b> Visit Nuwara Eliya, Horton Plains, and tea plantations.</li>
-                                <li><b>Day 12-13&nbsp;:&nbsp;</b> Safari in Yala National Park. </li>
-                                <li><b>Day 14-15&nbsp;:&nbsp;</b> Relax on the beaches of Mirissa and depart from Colombo. </li>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Water bottle and refreshment</li>
+                                <li>Hotel pickup and drop off</li>
+
+
                             </ul>
 
                         </span>
@@ -427,8 +558,8 @@
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(11);" id="card--showMore11">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(11);" id="card--showLess11" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(7);" id="card--showMore7">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(7);" id="card--showLess7" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
 
