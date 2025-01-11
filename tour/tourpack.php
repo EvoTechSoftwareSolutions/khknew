@@ -777,7 +777,7 @@
 
 
         <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading2">20-Day Packages</span>
+            <span class="home--sec4--div1--heading1">ANIMAL WATCHING TOURS</span>
         </div>
         <div class="cardContainer">
 
@@ -788,24 +788,36 @@
                 <div class="productCard--content collapse" id="card--content16">
                     <span class="card1--heading1">Grand Sri Lanka Tour </span>
                     <span class="card1--heading2">
-                        <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> A complete exploration of Sri Lanka’s diverse attractions, from cultural heritage to natural wonders.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <ul>
+                                <li><b>Package&nbsp;:&nbsp;</b>3-hours/4-hour Private Tours (Normal Safari)</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Evening Safari - 2.00PM / 6.00PM</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
-                        <ul>
-                            <li><b>Day 1-3&nbsp;:&nbsp;</b>Explore Colombo, Galle Fort, and Bentota beaches. </li>
-                            <li><b>Day 4-5&nbsp;:&nbsp;</b> Visit Sinharaja Rainforest for guided nature walks.</li>
-                            <li><b>Day 6-8&nbsp;:&nbsp;</b> Explore Udawalawe National Park, Elephant Transit Home, and Yala National Park.</li>
-                            <li><b>Day 9-10&nbsp;:&nbsp;</b> Beach relaxation in Mirissa and whale watching.</li>
-                            <li><b>Day 11-13&nbsp;:&nbsp;</b> Visit Ella, trek to Little Adam’s Peak, and explore tea plantations.</li>
-                            <li><b>Day 14-16&nbsp;:&nbsp;</b>Explore Kandy, visit the Temple of the Tooth Relic, and enjoy cultural performances. </li>
-                            <li><b>Day 17-19&nbsp;:&nbsp;</b> Discover the Cultural Triangle with visits to Sigiriya, Polonnaruwa, and Anuradhapura.</li>
-                            <li><b>Day 20&nbsp;:&nbsp;</b>Final day in Colombo for shopping and departure. </li>
-                        </ul>
+                            </ul>
+                            <ul>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
+                                <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
 
-                    </span>
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
+                            </ul>
+
+                        </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
