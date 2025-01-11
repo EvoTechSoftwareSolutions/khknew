@@ -77,13 +77,13 @@
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">SHUTTER TOUR</a>
-                        <a href="#">CITY TOURS</a>
-                        <a href="#">SAFARI TOURS</a>
-                        <a href="#">ANIMAL WATCHING</a>
-                        <a href="#">ROUND TOURS</a>
-                        <a href="#">ADVENTURE</a>
-                        <a href="#">SPECIAL PACKAGES</a>
+                    <a href="../tour/tourpack.php#shutter">SHUTTER TOUR</a>
+                        <a href="../tour/tourpack.php#city">CITY TOURS</a>
+                        <a href="../tour/tourpack.php#safari">SAFARI TOURS</a>
+                        <a href="../tour/tourpack.php#animal">ANIMAL WATCHING</a>
+                        <a href="../tour/tourpack.php#round">ROUND TOURS</a>
+                        <a href="../tour/tourpack.php#adventure">ADVENTURE</a>
+                        <a href="../tour/tourpack2.php">SPECIAL PACKAGES</a>
                     </div>
                 </div>
                 <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
@@ -111,7 +111,8 @@
                             <a href="../index.php" class="header--text3">HOME</a>
                             <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
                             <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
-                            <a href="../packages/packages.php" class="header--text3">TOUR PACKAGES</a>
+                            <a href="../tour/tourpack.php" class="header--text3">TOUR PACKAGES</a>
+                            <a href="../tourpack/tourpack2.php" class="header--text3">SPECIAL TOUR PACKAGES</a>
                             <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
                         </div>
                         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
