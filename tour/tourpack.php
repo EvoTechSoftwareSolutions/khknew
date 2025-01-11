@@ -451,7 +451,7 @@
 
                         </ul>
 
-                 </span>
+                    </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
@@ -471,9 +471,9 @@
                     <span class="card1--heading1">Kandy ONE DAY TOUR</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>The Kandy Day Tour will commence from either Colombo, Negombo, or Kandy. After your breakfast in the hotel, the tour will start around 7.30 a.m. The first stopover will be the Pinnawala Elephant Orphanage, and then you will visit the Peradeniya Botanical Gardens. After that, you’ll have lunch before going to see the Kandy Cultural Dance Show. After that, your last visiting place will be the Temple of the Tooth Relic. The journey will end with a flight back to Colombo or Negombo, or with a drop-off at a hotel in Kandy. 
+                            <li><b>Experience&nbsp;:&nbsp;</b>The Kandy Day Tour will commence from either Colombo, Negombo, or Kandy. After your breakfast in the hotel, the tour will start around 7.30 a.m. The first stopover will be the Pinnawala Elephant Orphanage, and then you will visit the Peradeniya Botanical Gardens. After that, you’ll have lunch before going to see the Kandy Cultural Dance Show. After that, your last visiting place will be the Temple of the Tooth Relic. The journey will end with a flight back to Colombo or Negombo, or with a drop-off at a hotel in Kandy.
 
-Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters above sea level and 116 kilometers from Colombo.Being a mountain city, Kandy has a very friendly climate for visitors. As well, the area has many nice places to visit. We hope our Kandy Day Tour will bring you great joy and happiness.</li> <br>
+                                Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters above sea level and 116 kilometers from Colombo.Being a mountain city, Kandy has a very friendly climate for visitors. As well, the area has many nice places to visit. We hope our Kandy Day Tour will bring you great joy and happiness.</li> <br>
 
                         </ul>
 
@@ -499,7 +499,7 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
 
                         </ul>
 
-                 </span>
+                    </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
@@ -522,22 +522,22 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
         <div class="tourpack--color">
 
             <!-- <div class="tourpack-mid"> -->
-            <div class="home--sec4--div1">
-                <span class="home--sec4--div1--heading1"></span>
+            <div class="home--sec4--div1" id="safari">
+                <span class="home--sec4--div1--heading1">SAFARI TOURS</span>
             </div>
             <div class="cardContainer">
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/des/Galle Fort.jpg" class="card1">
+                        <img src="../resources/des/Udawalawe National Park.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content7">
-                        <span class="card1--heading1">ELLA ONE DAY TOUR</span>
+                    <div class="productCard--content collapse" id="card--content11">
+                        <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Package&nbsp;:&nbsp;</b>12 Hour Private Tours</li> <br>
-                                <li><b>Start&nbsp;:&nbsp;</b>12 Hour Private ToursMorning 7.00AM to Evening 7.00PM</li> <br>
-                                <li><b>Experience&nbsp;:&nbsp;</b>Another good trip we have is the trip starting from Mirissa, Weligama, Dikwella, Tangalle, Hikkaduwa. Here you can visit Ella Rock, Nine Arch Bridge, Little Adam's Peak, Ravana Waterfall and many other beautiful and attractive places.</li> <br>
+                                <li><b>Package&nbsp;:&nbsp;</b>3-hours/4-hour Private Tours (Normal Safari)</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Morning Safari - 5.30AM / 9.30AM</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawa National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.</li> <br>
 
                             </ul>
                             <ul>
@@ -546,10 +546,21 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
                             <ul>
                                 <li>Pick and drop vehicle your destination</li>
                                 <li>Well experience driver</li>
-                                <li>Water bottle and refreshment</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
                                 <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
 
-
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
                             </ul>
 
                         </span>
@@ -558,8 +569,8 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(7);" id="card--showMore7">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(7);" id="card--showLess7" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(11);" id="card--showMore11">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(11);" id="card--showLess11" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
 
@@ -567,25 +578,38 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/tourpack/heritage.png" class="card1">
+                        <img src="../resources/des/udawalawa2.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content12">
-                        <span class="card1--heading1"> Sri Lanka Heritage & Scenic Beauty</span>
+                        <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Experience&nbsp;:&nbsp;</b> A blend of heritage sites and natural beauty, including the hill country. </li> <br>
-                                <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                                <li><b>Package&nbsp;:&nbsp;</b>3-hours/4-hour Private Tours (Normal Safari)</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Morning Safari - 10.00AM / 2.00PM</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.</li> <br>
+
                             </ul>
-
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                             <ul>
-                                <li><b>Day 1-3&nbsp;:&nbsp;</b> Explore Colombo and Galle Fort. </li>
-                                <li><b>Day 4-6&nbsp;:&nbsp;</b> Relax on the southern beaches of Bentota and Mirissa. </li>
-                                <li><b>Day 7-8&nbsp;:&nbsp;</b> Discover Udawalawe National Park and Elephant Transit Home. </li>
-                                <li><b>Day 9-10&nbsp;:&nbsp;</b> Explore Nuwara Eliya and tea plantations. </li>
-                                <li><b>Day 11-13&nbsp;:&nbsp;</b> Scenic train ride to Kandy, visit Temple of the Tooth Relic. </li>
-                                <li><b>Day 14-15&nbsp;:&nbsp;</b> Explore Sigiriya and Dambulla, and depart from Colombo. </li>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
+                                <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
 
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
                             </ul>
 
                         </span>
@@ -603,24 +627,39 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/tourpack/horton.png" class="card1">
+                        <img src="../resources/des/udawalawa3.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content13">
-                        <span class="card1--heading1"> Spiritual & Wellness Retreat</span>
+                    <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
+
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Experience&nbsp;:&nbsp;</b> Focus on wellness with Ayurvedic treatments, yoga, and visits to spiritual sites. </li> <br>
-                                <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                                <li><b>Package&nbsp;:&nbsp;</b>3-hours/4-hour Private Tours (Normal Safari)</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Evening Safari - 2.00PM / 6.00PM</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.</li> <br>
+
                             </ul>
-
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                             <ul>
-                                <li><b>Day 1-3&nbsp;:&nbsp;</b> Stay in a wellness retreat near Colombo, daily yoga, and Ayurveda. </li>
-                                <li><b>Day 4-6&nbsp;:&nbsp;</b> Visit Kandy, explore the Temple of the Tooth Relic. </li>
-                                <li><b>Day 7-9&nbsp;:&nbsp;</b> Travel to Ella, participate in meditation sessions. </li>
-                                <li><b>Day 10-12&nbsp;:&nbsp;</b> Explore Horton Plains, tea plantations, and wellness activities. </li>
-                                <li><b>Day 13-15&nbsp;:&nbsp;</b> Relax in a coastal retreat with spa treatments and beach yoga. </li>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
+                                <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
 
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
                             </ul>
 
                         </span>
@@ -638,24 +677,39 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/tourpack/cycling.png" class="card1">
+                        <img src="../resources/des/udawalawa4.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content14">
-                        <span class="card1--heading1">Cycling & Hiking Adventure </span>
-                        <span class="card1--heading2">
+                    <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
+
+                    <span class="card1--heading2">
                             <ul>
-                                <li><b>Experience&nbsp;:&nbsp;</b> A physically engaging tour with cycling and hiking in Sri Lanka’s diverse landscapes. </li> <br>
-                                <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                                <li><b>Package&nbsp;:&nbsp;</b>Full  day Safari tour(Normal Safari )</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari  -5.30Am/5.30Pm</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 12 Hours. With our udawalawe safari tour, you can spend more than 12 hours exploring and photographing wildlife. You have the option of taking a Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wildcreatures and the national park.</li> <br>
+
                             </ul>
-
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                             <ul>
-                                <li><b>Day 1-3&nbsp;:&nbsp;</b> A physically engaging tour with cycling and hiking in Sri Lanka’s diverse landscapes. </li>
-                                <li><b>Day 4-6&nbsp;:&nbsp;</b> Trek in the Knuckles Mountain Range. </li>
-                                <li><b>Day 7-9&nbsp;:&nbsp;</b> Cycle to Kandy, visit the Temple of the Tooth Relic. </li>
-                                <li><b>Day 10-12&nbsp;:&nbsp;</b> Hike in the hill country, including Horton Plains and Adam’s Peak. </li>
-                                <li><b>Day 13-15&nbsp;:&nbsp;</b> Relax on the southern beaches after the adventure. </li>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
+                                <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
 
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
                             </ul>
 
                         </span>
@@ -673,23 +727,38 @@ Kandy is the capital city of the Central Province of Sri Lanka. It is 447 meters
 
                 <article class="productCard">
                     <div class="productCard--img">
-                        <img src="../resources/tourpack/market.png" class="card1">
+                        <img src="../resources/des/yala2.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content15">
-                        <span class="card1--heading1"> Gourmet & Cultural Tour</span>
+                        <span class="card1--heading1"> Yala National park Safari Jeep Tours</span>
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Experience&nbsp;:&nbsp;</b> A culinary journey combined with cultural exploration. </li> <br>
-                                <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                            </ul>
+                                <li><b>Package&nbsp;:&nbsp;</b>Full  day Safari tour(Normal Safari )</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari  -5.30Am/5.30Pm</li> <br>
+                                <li><b>Experience&nbsp;:&nbsp;</b>Yala National Park Safari Tours for 12 Hours. With our Yala safari tour, you can spend more than 12 hours exploring and photographing wildlife. You have the option of taking a Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wildcreatures and the national park.</li> <br>
 
-                            <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                            </ul>
                             <ul>
-                                <li><b>Day 1-3&nbsp;:&nbsp;</b> Culinary tour in Colombo, visit markets, cooking classes. </li>
-                                <li><b>Day 4-6&nbsp;:&nbsp;</b> Explore Galle Fort, enjoy seafood, and cooking workshops. </li>
-                                <li><b>Day 7-9&nbsp;:&nbsp;</b> Visit Kandy, explore local cuisine, and cultural sites. </li>
-                                <li><b>Day 10-12&nbsp;:&nbsp;</b> Scenic train to Nuwara Eliya, tea tasting, and cooking with local chefs.</li>
-                                <li><b>Day 13-15&nbsp;:&nbsp;</b> Beach stay in Bent </li>
+                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Pick and drop vehicle your destination</li>
+                                <li>Well experience driver</li>
+                                <li>Food & Beverags</li>
+                                <li>Safari Jeep</li>
+                                <li>With /Without national park entrance frees with taxes</li>
+                                <li>Hotel pickup and drop off</li>
+                                <li>4×4 Luxury safari Jeep</li>
+                                <li>Safari Jeep Driver with extensive experience</li>
+                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+
+                            </ul>
+                            <ul>
+                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
+                            </ul>
+                            <ul>
+                                <li>Fresh fruit platter</li>
+                                <li>Water bottles during tour</li>
                             </ul>
 
                         </span>

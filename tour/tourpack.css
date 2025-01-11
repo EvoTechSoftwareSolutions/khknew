@@ -438,7 +438,11 @@ body{
   }
 
   .tourpack--color{
-    background-image: linear-gradient(135deg,rgba(0,255,0,0.9),rgba(255, 115, 0, 0.9),rgba(0, 162, 255, 0.9));
+    background-color: #132019;
+background-image: linear-gradient(45deg, #132019 0%, #327d35 50%, #132019 100%);
+
+
+    /* background-image: linear-gradient(135deg,rgba(0,255,0,0.9),rgba(255, 115, 0, 0.9),rgba(0, 162, 255, 0.9)); */
     padding-top: 3%;
     padding-bottom: 5%;
   }
