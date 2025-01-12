@@ -21,7 +21,7 @@
                 </div>
                 <div class="footer--sec1--div4">
                     <div>
-                        <a href="https://web.facebook.com/profile.php?id=61565563513410"><img src="../resources/socialicon/facebook (1).png" class="footer--logo2"></a>
+                        <a href="https://www.facebook.com/khktravel?mibextid=ZbWKwL"><img src="../resources/socialicon/facebook (1).png" class="footer--logo2"></a>
                     </div>
 
                     <div>
@@ -60,7 +60,7 @@
                     <a href="../index.php" class="header--span2">HOME</a>
                     <a href="../services/services.php" class="header--span2">OUR SERVICES</a>
                     <a href="../destinations/des.php" class="header--span2">DESTINATIONS</a>
-                    <a href="../packages/packages.php" class="header--span2">TOUR PACKAGES</a>
+                    <a href="../tour/tourpack.php" class="header--span2">TOUR PACKAGES</a>
                     <a href="../contact/contact.php" class="header--span2">CONTACT US</a>
                 </div>
 

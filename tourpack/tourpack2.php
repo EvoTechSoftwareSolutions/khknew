@@ -260,24 +260,26 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/cultural.png" class="card1">
+                    <img src="../resources/des/Ancient City of Polonnaruwa.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content6">
-                    <span class="card1--heading1">Cultural Triangle Journey </span>
+                    <span class="card1--heading1">Package 1 : Cultural Wonders </span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Explore Sri Lanka’s ancient cities and UNESCO World Heritage sites. </li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b> Immerse yourself in Sri Lanka's rich cultural history, ancient ruins, sacred temples, and scenic train journeys. </li> <br>
                             <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         </ul>
 
                         <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Anuradhapura, visit ancient temples and stupas.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore Mihintale and the sacred Bodhi Tree. </li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b> Visit Polonnaruwa, exploring ancient ruins and sculptures.</li>
-                            <li><b>Day 4&nbsp;:&nbsp;</b> Climb Sigiriya Rock Fortress and visit Pidurangala Rock.</li>
-                            <li><b>Day 5&nbsp;:&nbsp;</b> Visit Dambulla Cave Temple and transfer to Kandy.</li>
-                            <li><b>Day 6&nbsp;:&nbsp;</b> Explore Kandy’s Temple of the Tooth Relic and depart.</li>
+                            <li><b>Day 1&nbsp;:&nbsp;</b> Arrival in Colombo, visit Independence Square and Galle Face Green, then head to Anuradhapura.</li>
+                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore sacred sites in Anuradhapura, including Sri Maha Bodhi and Ruwanwelisaya. </li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b> Climb Sigiriya Rock and tour Polonnaruwa's ancient ruins.</li>
+                            <li><b>Day 4&nbsp;:&nbsp;</b>Visit Dambulla Cave Temple and travel to Kandy.</li>
+                            <li><b>Day 5&nbsp;:&nbsp;</b> Explore the Temple of the Tooth Relic, Peradeniya Botanical Gardens, and enjoy a cultural show.</li>
+                            <li><b>Day 6&nbsp;:&nbsp;</b>Take a scenic train ride to Nuwara Eliya, visiting tea plantations and waterfalls.</li>
+                            <li><b>Day 7&nbsp;:&nbsp;</b>Hike Horton Plains and see World's End before returning to Colombo for departure.</li>
+
                         </ul>
 
                         <ul>
