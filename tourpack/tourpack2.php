@@ -65,7 +65,7 @@
                         <ul>
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
-                            <li>Water bottle and Refreshments</li>
+                            <li>Water bottle</li>
 
                         </ul>
 
@@ -107,7 +107,7 @@
                         <ul>
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
-                            <li>Water bottle and Refreshments</li>
+                            <li>Water bottle</li>
 
                         </ul>
 
@@ -149,7 +149,7 @@
                         <ul>
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
-                            <li>Water bottle and Refreshments</li>
+                            <li>Water bottle</li>
 
                         </ul>
 
@@ -192,7 +192,7 @@
                         <ul>
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
-                            <li>Water bottle and Refreshments</li>
+                            <li>Water bottle</li>
 
                         </ul>
 
@@ -232,7 +232,7 @@
                         <ul>
                             <li>Pick and drop vehicle your destination</li>
                             <li>Well experience driver</li>
-                            <li>Water bottle and Refreshments</li>
+                            <li>Water bottle</li>
 
                         </ul>
 
