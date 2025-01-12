@@ -7,7 +7,7 @@
     <title>KHK TOURS</title>
 
     <link rel="icon" href="../resources/logo_lg.png"/>
-    <link rel="stylesheet" href="tourpack.css">
+    <link rel="stylesheet" href="tourpack2.css">
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="../Footer/footer.css">
     <link rel="stylesheet" href="../hero_slider/hero_slider.css">
@@ -21,25 +21,19 @@
     <!-- Header -->
 
 
-
+    <div class="start--div"></div>
 
 
     <!-- <div class="space"></div> -->
 
 
 
-    <br>
 
 
-    <div class="start--div"></div>
-
-    <div class="banner">
-        <!-- <img src="../resources/pack.jpg" class="bannerimg"> -->
-    </div>
-    <section class="tourpack-sec1">
+    <section class="tourpack2-sec1" >
         <div class="home--sec4--div1">
             <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br><br>
-            <span class="home--sec4--div1--heading2">4-Day Packages</span>
+            <!-- <span class="home--sec4--div1--heading2">4-Day Packages</span> -->
         </div>
 
         <!-- <div class="home--sec4--div2"> -->
@@ -50,7 +44,7 @@
                     <img src="../resources/des/Colombo.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content1">
-                    <span class="card1--heading1">Cultural Escape</span>
+                    <span class="card1--heading1">Package 1 : Cultural Escape</span>
                     <span class="card1--heading2">
                         <ul>
                             <li><b>Experience&nbsp;:&nbsp;</b>Discover Sri Lanka’s rich cultural heritage with a blend of ancient temples, historic sites, and breathtaking landscapes.</li> <br>
@@ -92,7 +86,7 @@
                     <img src="../resources/tourpack/galle.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content2">
-                    <span class="card1--heading1">Scenic Adventure</span>
+                    <span class="card1--heading1">Package 2 : Scenic Adventure</span>
                     <span class="card1--heading2">
                         <ul>
                             <li><b>Experience&nbsp;:&nbsp;</b>A picturesque journey through Sri Lanka’s scenic landscapes, including lush tea plantations and serene mountain peaks.</li> <br>
@@ -104,7 +98,7 @@
                             <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Kandy, visit the Royal Palace, Kandy Lake, and enjoy a cultural show.</li>
                             <li><b>Day 2&nbsp;:&nbsp;</b>Take a scenic train ride through lush tea plantations to Nuwara Eliya, stopping at tea factories.</li>
                             <li><b>Day 3&nbsp;:&nbsp;</b>Trek through Horton Plains National Park to see World's End and Baker's Falls, then head to Ella.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit Nine Arches Bridge and Little Adam's Peak before departing via Colombo.</li>
+                            <li><b>Day 4&nbsp;:&nbsp;</b>Visit Nine Arches Bridge and Little Adam's Peak before departing via Colombo.</li>
                         </ul>
 
                         <ul>
@@ -133,18 +127,20 @@
                     <img src="../resources/cardimg/sigiriya.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content3">
-                    <span class="card1--heading1">Sigiriya & Dambulla Express</span>
+                    <span class="card1--heading1">Package 3 : Wildlife and Nature</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Visit two of Sri Lanka's most iconic UNESCO World Heritage sites..</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Explore the natural beauty of Sri Lanka’s wildlife, including safaris and visits to ancient temples and scenic parks.</li> <br>
                             <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         </ul>
 
                         <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Sigiriya, climb the Sigiriya Rock Fortress.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore the Dambulla Cave Temple and take a village tour.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit the Minneriya National Park for a safari and departure.</li>
+                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival and visit Pinnawala Elephant Orphanage, then proceed to Sigiriya for an evening of relaxation.</li>
+                            <li><b>Day 2&nbsp;:&nbsp;</b>Climb Sigiriya Rock and enjoy a wildlife safari at Minneriya National Park to see elephants.</li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b>Explore Kandy, including the Temple of the Tooth Relic and a visit to the Udawatta Kele Sanctuary.</li>
+                            <li><b>Day 4&nbsp;:&nbsp;</b>Stroll through the Royal Botanical Gardens before heading back to Colombo for departure.</li>
+
                         </ul>
 
                         <ul>
@@ -174,18 +170,20 @@
                     <img src="../resources/tourpack/kandy.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content4">
-                    <span class="card1--heading1">Kandy Cultural Tour</span>
+                    <span class="card1--heading1">Package 4 : Beach Bliss</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Immerse yourself in the culture and history of Kandy.</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Relax on Sri Lanka’s beautiful beaches, with cultural and adventure experiences along the way.</li> <br>
                             <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         </ul>
 
                         <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
                         <ul>
-                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival in Kandy, visit the Temple of the Tooth Relic and Kandy Lake.</li>
-                            <li><b>Day 2&nbsp;:&nbsp;</b>Explore Peradeniya Botanical Gardens and enjoy a traditional Kandyan dance show.</li>
-                            <li><b>Day 3&nbsp;:&nbsp;</b>Visit local markets, explore the Bahirawakanda Buddha Statue, and departure.</li>
+                            <li><b>Day 1&nbsp;:&nbsp;</b>Arrival and relax at Bentota Beach.</li>
+                            <li><b>Day 2&nbsp;:&nbsp;</b>Visit Kosgoda Turtle Hatchery, enjoy a river safari in the Madu Ganga, and explore the beaches.</li>
+                            <li><b>Day 3&nbsp;:&nbsp;</b>Day trip to Galle Fort and indulge in snorkeling at Hikkaduwa.</li>
+                            <li><b>Day 4&nbsp;:&nbsp;</b>Enjoy a morning at the beach before departing via Colombo.</li>
+
                         </ul>
 
                         <ul>
@@ -867,7 +865,7 @@
 
     <script src="../Header/header.js"></script>
     <script src="../Footer/footer.js"></script>
-    <script src="tourpack.js"></script>
+    <script src="tourpack2.js"></script>
 </body>
 
 </html>
