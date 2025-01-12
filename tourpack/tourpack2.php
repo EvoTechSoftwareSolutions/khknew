@@ -17,7 +17,7 @@
 
 
     <!-- Header -->
-    <?php include "../header/header.php"; ?>
+    <?php include "../Header/header.php"; ?>
     <!-- Header -->
 
 
@@ -33,7 +33,7 @@
     <section class="tourpack2-sec1" >
         <div class="home--sec4--div1">
             <span class="home--sec4--div1--heading1">TOUR PACKAGES</span><br><br>
-            <!-- <span class="home--sec4--div1--heading2">4-Day Packages</span> -->
+            <span class="home--sec4--div1--heading2">4-Day Packages</span>
         </div>
 
         <!-- <div class="home--sec4--div2"> -->
@@ -83,7 +83,7 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/galle.png" class="card1">
+                    <img src="../resources/des/dalada.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content2">
                     <span class="card1--heading1">Package 2 : Scenic Adventure</span>
@@ -124,7 +124,7 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/cardimg/sigiriya.png" class="card1">
+                    <img src="../resources/des/Pinnawala Elephant Orphanage.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content3">
                     <span class="card1--heading1">Package 3 : Wildlife and Nature</span>
@@ -167,7 +167,7 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/kandy.png" class="card1">
+                    <img src="../resources/des/Bentota Beach.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content4">
                     <span class="card1--heading1">Package 4 : Beach Bliss</span>
@@ -210,13 +210,13 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/negombo.png" class="card1">
+                    <img src="../resources/des/Nuwara Eliya.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content5">
-                    <span class="card1--heading1">Negombo Lagoon & Beaches</span>
+                    <span class="card1--heading1"> Kandy - Nuwara-Eliya - Colombo Tour</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>Relax in the coastal town of Negombo, known for its lagoon and beaches.</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>The first two days will be spent in Kandy, capturing the UNESCO Highlight – The Temple of the Tooth – and a visit to Hanuman Kovil, before heading to the misty slopes of Nuwara Eliya, where you will experience Tea Plantation and Tea Factory visits. Nuwara Eliya City Tour will wow you with a drive-through of Little England and a visit to Seetha Amman Temple. On your final day, you will be taken to Colombo for a spectacular city tour that includes architecture, temples, and other sights. In addition, you will experience an exhilarating shopping spree in Colombo’s biggest city malls.</li> <br>
                             <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
                         </ul>
 
@@ -254,7 +254,7 @@
         <!-- </div> -->
 
         <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading2">6-Day Packages</span>
+            <span class="home--sec4--div1--heading2">7-Day Packages</span>
         </div>
         <div class="cardContainer">
 
@@ -860,7 +860,7 @@
     </section>
 
     <!-- Footer -->
-    <?php include "../footer/footer.php"; ?>
+    <?php include "../Footer/footer.php"; ?>
     <!-- Footer -->
 
     <script src="../Header/header.js"></script>

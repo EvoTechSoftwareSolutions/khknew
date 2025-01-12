@@ -36,7 +36,7 @@
                         <a href="../tour/tourpack.php#animal">ANIMAL WATCHING</a>
                         <!-- <a href="../tour/tourpack.php#round">ROUND TOURS</a>
                         <a href="../tour/tourpack.php#adventure">ADVENTURE</a> -->
-                        <a href="../tour/tourpack2.php">SPECIAL PACKAGES</a>
+                        <a href="../tourpack/tourpack2.php">SPECIAL PACKAGES</a>
                     </div>
                 </div>
                 <!-- <a href="" class="header--text"></a> -->
@@ -83,7 +83,7 @@
                         <a href="../tour/tourpack.php#animal">ANIMAL WATCHING</a>
                         <!-- <a href="../tour/tourpack.php#round">ROUND TOURS</a>
                         <a href="../tour/tourpack.php#adventure">ADVENTURE</a> -->
-                        <a href="../tour/tourpack2.php">SPECIAL PACKAGES</a>
+                        <a href="../tourpack/tourpack2.php">SPECIAL PACKAGES</a>
                     </div>
                 </div>
                 <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
