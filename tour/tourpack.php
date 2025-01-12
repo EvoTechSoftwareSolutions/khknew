@@ -511,6 +511,55 @@
             </article>
 
 
+            <article class="productCard">
+                <div class="productCard--img">
+                    <img src="../resources/des/belihul-oya.jpg" class="card1">
+                </div>
+                <div class="productCard--content collapse" id="card--content19">
+                    <span class="card1--heading1">BELIHUL OYA ONE DAY TOUR</span>
+                    <span class="card1--heading2">
+                  
+                        <li><b>Package&nbsp;:&nbsp;</b>6-hour Tour </li> <br>
+                        <li><b>Start&nbsp;:&nbsp;</b>Morning 9.00 AM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Belihuloya is a charming hillside village located in the Sabaragamuwa Province, Ratnapura District, about 160kms away from Colombo. The fortunate geographical location of Belihuloya links the wet and dry zones of the island at an altitude of less than 1500m. As a result, visitors will see a rare blend of semi-evergreen forests, dry grasslands, montane temperate forests and tropical savanna forests. Also expect to come across waterfalls, mountains, rivers and reservoirs decorating this gorgeous hamlet along with several endemic species of flora and fauna, making it a paradise for nature lovers!
+                            This nature’s marvel has been created with an overload cycling trails, nature exploration, bird watching, camping and plenty of such opportunities. The stunning scenery and rich biodiversity of Belihuloya offer visitors a traditional perspective of Sri Lankan life as well as other exciting adventures.</li> <br>
+
+                        </ul>
+
+                        <ul>
+                            <li><b>Things you should know about Belihuloya Day Tour&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>It is recommended that you wear comfortable clothing and bring an extra set of clothes since many water activities are involved. </li>
+                            <li>Passengers with back, neck, joints or muscular problems are advised to re-consider participation in activities.</li>
+                            <li>Pregnant women and passengers with limited mobility should avoid the activities.</li>
+                            <li>Not advisable for children under 10 years. Every child must be accompanied by an adult. </li>
+
+                        </ul>
+
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Well experience adventure guide</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle, Breakfast and Lunch</li>
+                            <li>Hotel pickup and drop off</li>
+
+                        </ul>
+
+                    </span>
+                    <div class="button--card">
+                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                    </div>
+                </div>
+                <div class="todo--readmoreRow">
+                    <button class="todo--readmore" onclick="readmore(19);" id="card--showMore19">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(19);" id="card--showLess19" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                </div>
+            </article>
+
+
 
         </div>
 
@@ -630,7 +679,7 @@
                         <img src="../resources/des/udawalawa3.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content13">
-                    <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
+                        <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
 
                         <span class="card1--heading2">
                             <ul>
@@ -680,12 +729,12 @@
                         <img src="../resources/des/udawalawa4.jpg" class="card1">
                     </div>
                     <div class="productCard--content collapse" id="card--content14">
-                    <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
+                        <span class="card1--heading1">Udawalawa National Park Safari Jeep Tours</span>
 
-                    <span class="card1--heading2">
+                        <span class="card1--heading2">
                             <ul>
-                                <li><b>Package&nbsp;:&nbsp;</b>Full  day Safari tour(Normal Safari )</li> <br>
-                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari  -5.30Am/5.30Pm</li> <br>
+                                <li><b>Package&nbsp;:&nbsp;</b>Full day Safari tour(Normal Safari )</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari -5.30Am/5.30Pm</li> <br>
                                 <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 12 Hours. With our udawalawe safari tour, you can spend more than 12 hours exploring and photographing wildlife. You have the option of taking a Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wildcreatures and the national park.</li> <br>
 
                             </ul>
@@ -733,8 +782,8 @@
                         <span class="card1--heading1"> Yala National park Safari Jeep Tours</span>
                         <span class="card1--heading2">
                             <ul>
-                                <li><b>Package&nbsp;:&nbsp;</b>Full  day Safari tour(Normal Safari )</li> <br>
-                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari  -5.30Am/5.30Pm</li> <br>
+                                <li><b>Package&nbsp;:&nbsp;</b>Full day Safari tour(Normal Safari )</li> <br>
+                                <li><b>Start&nbsp;:&nbsp;</b>Full day Safari -5.30Am/5.30Pm</li> <br>
                                 <li><b>Experience&nbsp;:&nbsp;</b>Yala National Park Safari Tours for 12 Hours. With our Yala safari tour, you can spend more than 12 hours exploring and photographing wildlife. You have the option of taking a Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wildcreatures and the national park.</li> <br>
 
                             </ul>
@@ -776,48 +825,37 @@
         </div>
 
 
-        <div class="home--sec4--div1">
+        <div class="home--sec4--div1" id="animal">
             <span class="home--sec4--div1--heading1">ANIMAL WATCHING TOURS</span>
         </div>
         <div class="cardContainer">
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/grandsri.png" class="card1">
+                    <img src="../resources/des/turtel.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content16">
-                    <span class="card1--heading1">Grand Sri Lanka Tour </span>
+                    <span class="card1--heading1">Turtle Watching </span>
                     <span class="card1--heading2">
-                            <ul>
-                                <li><b>Package&nbsp;:&nbsp;</b>3-hours/4-hour Private Tours (Normal Safari)</li> <br>
-                                <li><b>Start&nbsp;:&nbsp;</b>Evening Safari - 2.00PM / 6.00PM</li> <br>
-                                <li><b>Experience&nbsp;:&nbsp;</b>Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.</li> <br>
+                        <ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>2 or 3 Hours Private Tour</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>Morning 7.30AM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>If you are traveling to Sri Lanka, you can see turtles on our coast. Join us to make your trip unforgettable. There you can see the turtles in Hikkaduwa, Mirissa, Polhena, Rakawa on the south coast and Pigeon Islands on the northeast coast.</li> <br>
 
-                            </ul>
-                            <ul>
-                                <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
-                            </ul>
-                            <ul>
-                                <li>Pick and drop vehicle your destination</li>
-                                <li>Well experience driver</li>
-                                <li>Food & Beverags</li>
-                                <li>Safari Jeep</li>
-                                <li>With /Without national park entrance frees with taxes</li>
-                                <li>Hotel pickup and drop off</li>
-                                <li>4×4 Luxury safari Jeep</li>
-                                <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                        </ul>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Refreshments</li>
+                            <li>Hotel pickup and drop off</li>
 
-                            </ul>
-                            <ul>
-                                <li><b>AMENITIES&nbsp;:&nbsp;</b></li>
-                            </ul>
-                            <ul>
-                                <li>Fresh fruit platter</li>
-                                <li>Water bottles during tour</li>
-                            </ul>
+                        </ul>
 
-                        </span>
+
+                    </span>
                     <div class="button--card">
                         <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
@@ -830,26 +868,29 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/eco.png" class="card1">
+                    <img src="../resources/des/whale.png" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content17">
-                    <span class="card1--heading1"> Eco-Tourism & Community Engagement</span>
+                    <span class="card1--heading1"> Whales and Dolphin Watching</span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> Focus on sustainable travel, engaging with local communities and eco-friendly experiences.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
+                            <li><b>Package&nbsp;:&nbsp;</b>4 or 5 Hour Tours</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>Morning 6.30AM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>Are you looking to visit Sri Lanka come join us and make your visit an unforgettable trip of your life. The best time to see whales and dolphins in Mirissa is from November to April when the ocean is calm and warm. Whales are known to migrate around the southern tip of the island during these months as well. Increasing your chances of spotting a gentle giant.  Between May and October, whales migrate from the south coast to the east coast. Trincomalee coast is best during these months for a whale and dolphin watching excursion.</li> <br>
+
+                        </ul>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Breakfast</li>
+                            <li>Hotel pickup and drop off</li>
+                            <li>Boat and well experience Guide and Protective cover</li>
+
                         </ul>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
-                        <ul>
-                            <li><b>Day 1-3&nbsp;:&nbsp;</b> Stay in eco-lodges near Sinharaja Rainforest, participate in conservation projects.</li>
-                            <li><b>Day 4-6&nbsp;:&nbsp;</b> Visit Udawalawe National Park and engage in community-based tourism.</li>
-                            <li><b>Day 7-9&nbsp;:&nbsp;</b>Explore rural life in a village near Kandy, visit local schools, and participate in agricultural activities. </li>
-                            <li><b>Day 10-12&nbsp;:&nbsp;</b> Explore Knuckles Mountain Range with guided hikes and stay in eco-friendly accommodations.</li>
-                            <li><b>Day 13-15&nbsp;:&nbsp;</b> Beach stay in Pasikuda, visit local fishermen, and explore Batticaloa’s community initiatives.</li>
-                            <li><b>Day 16-18&nbsp;:&nbsp;</b>Participate in eco-friendly tours in Trincomalee, including whale watching and coral reef conservation. </li>
-                            <li><b>Day 19-20&nbsp;:&nbsp;</b>Return to Colombo for a wrap-up of the eco-tourism experience and departure. </li>
-                        </ul>
 
                     </span>
                     <div class="button--card">
@@ -864,28 +905,39 @@
 
             <article class="productCard">
                 <div class="productCard--img">
-                    <img src="../resources/tourpack/deep.png" class="card1">
+                    <img src="../resources/des/sinharaja.jpg" class="card1">
                 </div>
                 <div class="productCard--content collapse" id="card--content18">
-                    <span class="card1--heading1">Deep Cultural & Spiritual Journey </span>
+                    <span class="card1--heading1">Bird watching tour in Sinharaja Rainforest </span>
                     <span class="card1--heading2">
                         <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> A deep dive into Sri Lanka’s spiritual sites and cultural heritage.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
+                            <li><b>Package&nbsp;:&nbsp;</b>4 or 5 Hour Tours</li> <br>
+                            <li><b>Start&nbsp;:&nbsp;</b>Morning 8.00AM</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>The last remaining virgin rainforest in Sri Lanka, Sinharaja Forest Reserve is a utopia for wildlife, especially the feathered birds with 147 species of birds found in the area. Birdwatching in Sinharaja is an extraordinary experience. It is also equipped with unique plants and beautiful waterfalls.</li> <br>
 
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
+                        </ul>
                         <ul>
-                            <li><b>Day 1-3&nbsp;:&nbsp;</b>Explore Colombo’s religious sites and cultural attractions. </li>
-                            <li><b>Day 4-6&nbsp;:&nbsp;</b> Visit Anuradhapura, Mihintale, and the sacred Bodhi Tree.</li>
-                            <li><b>Day 7-8&nbsp;:&nbsp;</b> Explore Polonnaruwa’s ancient ruins and temples.</li>
-                            <li><b>Day 9-11&nbsp;:&nbsp;</b> Visit Sigiriya, Pidurangala, and the Dambulla Cave Temple.</li>
-                            <li><b>Day 12-14&nbsp;:&nbsp;</b>Travel to Kandy, visit the Temple of the Tooth Relic, and explore nearby spiritual sites. </li>
-                            <li><b>Day 15-17&nbsp;:&nbsp;</b> Meditation retreat in Ella with visits to local temples and natural sites.</li>
-                            <li><b>Day 18-20&nbsp;:&nbsp;</b>Relax in an Ayurvedic wellness retreat in Bentota before departure. </li>
-
+                            <li><b>SPECIAL OCCASIONS&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Identify the jungle bird, the national bird of Sri Lanka.</li>
+                            <li>The reserved forest is the only area where 21 of the 26 bird species endemic to Sri Lanka can be found.</li>
+                            <li>Catch rare and unique birds and preserve the unforgettable experience of your journey through the forest.</li>
+                    
 
                         </ul>
+                        <ul>
+                            <li><b>INCLUDING&nbsp;:&nbsp;</b></li>
+                        </ul>
+                        <ul>
+                            <li>Pick and drop vehicle your destination</li>
+                            <li>Well experience driver</li>
+                            <li>Water bottle and Breakfast</li>
+                            <li>Hotel pickup and drop off</li>
+                            <li>Boat and well experience Guide and Protective cover</li>
+
+                        </ul>
+
 
                     </span>
                     <div class="button--card">
@@ -905,110 +957,7 @@
 
 
 
-        <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading2">30-Day Packages</span>
-        </div>
-        <div class="cardContainer">
-
-            <article class="productCard">
-                <div class="productCard--img">
-                    <img src="../resources/tourpack/sri lanka.png" class="card1">
-                </div>
-                <div class="productCard--content collapse" id="card--content19">
-                    <span class="card1--heading1">Ultimate Sri Lanka Experience </span>
-                    <span class="card1--heading2">
-                        <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>A full exploration of Sri Lanka’s cultural, natural, and spiritual heritage over a month-long journey. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
-
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
-                        <ul>
-                            <li><b>Day 1-5&nbsp;:&nbsp;</b>Explore Colombo, Negombo, and Galle Fort, with beach time in Bentota. </li>
-                            <li><b>Day 6-10&nbsp;:&nbsp;</b> Visit Yala, Bundala, and Udawalawe National Parks for extensive wildlife safaris.</li>
-                            <li><b>Day 11-15&nbsp;:&nbsp;</b> Explore the hill country, including Ella, Nuwara Eliya, and Horton Plains.</li>
-                            <li><b>Day 16-20&nbsp;:&nbsp;</b>Discover the Cultural Triangle with Anuradhapura, Polonnaruwa, Sigiriya, and Dambulla. </li>
-                            <li><b>Day 21-25&nbsp;:&nbsp;</b> Immerse yourself in Kandy’s cultural offerings, including a visit to the Peradeniya Botanical Gardens and a scenic train journey to Ella.</li>
-                            <li><b>Day 26-30&nbsp;:&nbsp;</b>Explore the east coast with visits to Trincomalee, Pasikuda, and Batticaloa, ending with relaxation on the beaches and departure from Colombo. </li>
-                        </ul>
-
-                    </span>
-                    <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
-                    </div>
-                </div>
-                <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(19);" id="card--showMore19">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(19);" id="card--showLess19" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
-                </div>
-            </article>
-
-            <article class="productCard">
-                <div class="productCard--img">
-                    <img src="../resources/tourpack/wildlife2.png" class="card1">
-                </div>
-                <div class="productCard--content collapse" id="card--content20">
-                    <span class="card1--heading1">Nature & Wildlife Immersion </span>
-                    <span class="card1--heading2">
-                        <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b>A deep exploration of Sri Lanka’s diverse ecosystems, from rainforests to dry zones. </li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
-
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
-                        <ul>
-                            <li><b>Day 1-5&nbsp;:&nbsp;</b> Explore Sinharaja Rainforest, participate in bird watching and nature trails.</li>
-                            <li><b>Day 6-10&nbsp;:&nbsp;</b> Visit Yala, Wilpattu, and Minneriya National Parks for wildlife safaris.</li>
-                            <li><b>Day 11-15&nbsp;:&nbsp;</b> Explore the hill country’s flora and fauna, including Horton Plains and Knuckles Mountain Range.</li>
-                            <li><b>Day 16-20&nbsp;:&nbsp;</b> Participate in marine conservation activities on the southern coast, including turtle hatcheries and whale watching.</li>
-                            <li><b>Day 21-25&nbsp;:&nbsp;</b>Discover the eastern coast’s coral reefs, mangroves, and local wildlife. </li>
-                            <li><b>Day 26-30&nbsp;:&nbsp;</b> Return to Colombo, with visits to wetlands and conservation centers before departure.</li>
-                        </ul>
-
-                    </span>
-                    <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
-                    </div>
-                </div>
-                <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(20);" id="card--showMore20">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(20);" id="card--showLess20" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
-                </div>
-            </article>
-
-            <article class="productCard">
-                <div class="productCard--img">
-                    <img src="../resources/tourpack/learning.png" class="card1">
-                </div>
-                <div class="productCard--content collapse" id="card--content21">
-                    <span class="card1--heading1">Cultural Immersion & Language Learning </span>
-                    <span class="card1--heading2">
-                        <ul>
-                            <li><b>Experience&nbsp;:&nbsp;</b> A cultural and linguistic immersion with language classes, homestays, and cultural experiences.</li> <br>
-                            <li><b>Travel Plan&nbsp;:&nbsp;</b></li>
-                        </ul>
-
-                        <!-- <li><b>Travel Plan&nbsp;:&nbsp;</b></li> -->
-                        <ul>
-                            <li><b>Day 1-5&nbsp;:&nbsp;</b> Begin with language classes in Colombo, with cultural visits to museums and religious sites. </li>
-                            <li><b>Day 6-10&nbsp;:&nbsp;</b> Stay with a local family in Kandy, continue language learning, and participate in cultural activities.</li>
-                            <li><b>Day 11-15&nbsp;:&nbsp;</b> Explore the Cultural Triangle, with visits to Sigiriya, Dambulla, and Polonnaruwa, and continue language practice.</li>
-                            <li><b>Day 16-20&nbsp;:&nbsp;</b> Travel to the east coast, staying with local families in Trincomalee and Batticaloa, and participate in cultural workshops.</li>
-                            <li><b>Day 21-25&nbsp;:&nbsp;</b> Visit the southern coast, with language classes focusing on coastal life and fishing communities.</li>
-                            <li><b>Day 26-30&nbsp;:&nbsp;</b> Return to Colombo for advanced language classes, final cultural experiences, and a farewell ceremony.</li>
-                        </ul>
-
-                    </span>
-                    <div class="button--card">
-                        <a href="../login/index.php" class="button-78">BOOK&nbsp;NOW</a>
-                    </div>
-                </div>
-                <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(21);" id="card--showMore21">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(21);" id="card--showLess21" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
-                </div>
-            </article>
-        </div>
+       
 
 
 
