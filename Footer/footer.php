@@ -25,7 +25,7 @@
                     </div>
 
                     <div>
-                        <a href="https://www.instagram.com/khktraval?utm_source=qr&igsh=MTRzYmtsbWc0bDVtMQ=="><img src="../resources/socialicon/instagram (1).png" class="footer--logo2"></a>
+                        <a href="https://www.instagram.com/khktrours?igsh=MTRzYmtsbWc0bDVtMQ=="><img src="../resources/socialicon/instagram (1).png" class="footer--logo2"></a>
                     </div>
 
                     <div>

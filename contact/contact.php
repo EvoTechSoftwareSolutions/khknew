@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KHK TOURS</title>
 
-    <link rel="icon" href="../resources/img/logo_lg.png"/>
+    <link rel="icon" href="../resources/logo_lg.png"/>
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="../Footer/footer.css">
     <link rel="stylesheet" href="contact.css" />
@@ -71,7 +71,7 @@
                                         <span class="contatct--sec2--txt3">NO&nbsp;16/A&nbsp;Ranawiru Rasika Rukmal Mawatha&nbsp;, Uyanwatta, Matara</span>
                                     </div>
                                 </a>
-                                <a href="https://maps.app.goo.gl/yWxUu4EMo5qDkKLK9" class="contact--icon--row">
+                                <a href="mailto:info@khktours.com" class="contact--icon--row">
                                     <div class="contact--sec2--div8--img">
                                         <img src="../resources/contact/email.png" class="contact--img--icon">
                                     </div>
@@ -82,11 +82,11 @@
                             </div>
                             <div class="contact--sec2--div10">
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://web.facebook.com/profile.php?id=61565563513410" class="contact--icon--row"><img src="../resources/socialicon/facebook (1).png"
+                                    <a href="https://www.facebook.com/khktravel?mibextid=ZbWKwL" class="contact--icon--row"><img src="../resources/socialicon/facebook (1).png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://www.instagram.com/khktraval?utm_source=qr&igsh=MTRzYmtsbWc0bDVtMQ==" class="contact--icon--row"><img src="../resources/socialicon/instagram (1).png"
+                                    <a href="https://www.instagram.com/khktrours?igsh=MTRzYmtsbWc0bDVtMQ==" class="contact--icon--row"><img src="../resources/socialicon/instagram (1).png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
