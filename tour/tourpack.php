@@ -297,7 +297,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -334,7 +334,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -370,7 +370,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -406,7 +406,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -453,7 +453,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -501,7 +501,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -550,7 +550,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -614,7 +614,7 @@
 
                         </span>
                         <div class="button--card">
-                            <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                            <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
@@ -663,7 +663,7 @@
 
                         </span>
                         <div class="button--card">
-                            <a href="../contact/contact.phpp" class="button-78">BOOK&nbsp;NOW</a>
+                            <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
@@ -713,7 +713,7 @@
 
                         </span>
                         <div class="button--card">
-                            <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                            <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
@@ -763,7 +763,7 @@
 
                         </span>
                         <div class="button--card">
-                            <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                            <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
@@ -812,7 +812,7 @@
 
                         </span>
                         <div class="button--card">
-                            <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                            <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
@@ -857,7 +857,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -894,7 +894,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
@@ -941,7 +941,7 @@
 
                     </span>
                     <div class="button--card">
-                        <a href="../contact/contact.php" class="button-78">BOOK&nbsp;NOW</a>
+                        <a href="https://api.whatsapp.com/send?phone=94773614654" class="button-78">BOOK&nbsp;NOW</a>
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
