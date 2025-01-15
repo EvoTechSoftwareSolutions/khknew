@@ -1,7 +1,8 @@
 function send() {
 
     var f = new FormData();
-    f.append("name", document.getElementById("name").value);
+    f.append("fname", document.getElementById("fname").value);
+    f.append("lname", document.getElementById("lname").value);
     f.append("phone", document.getElementById("phone").value);
     f.append("email", document.getElementById("email").value);
     f.append("message", document.getElementById("message").value);
@@ -16,7 +17,8 @@ function send() {
     r.onreadystatechange = function () {
         if (r.readyState == 4) {
             if (r.responseText == "Message Sent successfully") {
-                document.getElementById("name").value = "";
+                document.getElementById("fname").value = "";
+                document.getElementById("lname").value = "";
                 document.getElementById("phone").value = "";
                 document.getElementById("email").value = "";
                 document.getElementById("message").value = "";

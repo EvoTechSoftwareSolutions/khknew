@@ -24,7 +24,7 @@
 
 
 
-@media screen and (min-width:650px) and (max-width:950px) {
+@media screen and (min-width:650px) and (max-width:949px) {
     .space1{
         width: 100%;
         height: 9em;
@@ -80,7 +80,7 @@ body {
 
     font-family: "poppins_bold";
     font-size: 2rem;
-    color: white;
+    color: #DAEEE1;
     animation-name: slideInLeft;
     animation-duration: 1s;
     animation-timing-function:ease-in ;
@@ -162,7 +162,7 @@ body {
     text-align: center;
     font-family: "poppins_bold";
     font-size: 25px;
-    color: #ffffff;
+    color: #DAEEE1;
 }
 
 .des--container {
@@ -265,8 +265,8 @@ justify-content: center;
 }
 
 .des--sec5--button1:hover {
-    border: solid 3px #ffffff;
-    color: #ffffff;
+    border: solid 3px #DAEEE1;
+    color: #DAEEE1;
     background-color: #688C6D;
     box-shadow: #688C6D 0 8px 15px;
     transform: translateY(-2px);
@@ -318,7 +318,7 @@ justify-content: center;
     }
 }
 
-@media screen and (min-width:900px) and (max-width:1200px) {
+@media screen and (min-width:900px) {
     .des--sec5--div1 {
         display: none;
     }
@@ -333,7 +333,7 @@ justify-content: center;
     }
 
     .des--sec5--div11 {
-        width: 80%;
+        width: 90%;
         height: fit-content;
         display: flex;
         align-items: start;
@@ -354,7 +354,7 @@ justify-content: center;
         text-align: center;
         font-family: "poppins_bold";
         font-size: 25px;
-        color: #ffffff;
+        color: #DAEEE1;
     }
 
     .des--sec5--span3 {
@@ -362,16 +362,16 @@ justify-content: center;
         padding: 0.5rem;
         font-weight: bold;
         font-size: 1.4rem;
-        color: #ffffff;
+        color: #DAEEE1;
 
     }
 
     .des--sec5--span4 {
         font-family: "poppins_regular";
         margin: 0.5rem;
-        color: #ffffff;
+        color: #DAEEE1;
         text-align: justify;
-        width: 60vh;
+        /* width: 60vh; */
     }
 
     /* .sec5--div14 {
@@ -388,7 +388,7 @@ justify-content: center;
     .des--sec5--div15 {
         display: flex;
         flex-direction: column;
-
+        width: 50%;
         justify-content: center;
 
 
@@ -401,7 +401,7 @@ justify-content: center;
         /* width: 80vh; */
         align-items: center;
         justify-content: center;
-        width: 40vh;
+        width: 100%;
 
 
     }
@@ -434,6 +434,11 @@ justify-content: center;
 
     }
 
+    .des--sec5--img2 {
+        width: 25rem;
+        
+      }
+
     /* .sec5--img1 {
         margin-right: auto;
       
@@ -460,12 +465,12 @@ justify-content: center;
     }
 
     .des--sec5--img2 {
-        width: 21rem;
+        width: 35rem;
       
     
     }
     .des--sec5--div11 {
-        width: 110vh;
+        /* width: 110vh; */
         margin-left: 1rem;
         height: fit-content;
         display: flex;
@@ -487,7 +492,7 @@ justify-content: center;
         text-align: center;
         font-family: "poppins_bold";
         font-size: 25px;
-        color: #ffffff;
+        color: #DAEEE1;
     }
 
     .des--sec5--span3 {
@@ -495,23 +500,23 @@ justify-content: center;
         padding: 0.5rem;
         font-weight: bold;
         font-size: 1.4rem;
-        color: #ffffff;
+        color: #DAEEE1;
 
     }
 
     .des--sec5--span4 {
         font-family: "poppins_regular";
         margin: 0.5rem;
-        color: #ffffff;
+        color: #DAEEE1;
         text-align: justify;
-        width: 70vh;
+        /* width: 70vh; */
 
 
     }
 
     .des--sec5--img1 {
-        width: 250px;
-        height: 250px;
+        width: 25rem;
+        /* height: 250px; */
 
     }
 
@@ -528,7 +533,7 @@ justify-content: center;
         display: flex;
         flex-direction: row;
         gap: 3rem;
-        width: 130vh;
+        /* width: 130vh; */
         justify-content: center;
         align-items: center;
             /* margin-left: 2rem; */
@@ -563,8 +568,49 @@ justify-content: center;
 }
 
 
+@media screen and (min-width:1350px)  {
+
+    .des--sec5--div10{
+        width: 120vh;
+    }
+    
+    }
+
+
 
 
 
 
 /* end desnation */
+
+
+
+
+
+
+.pageimg {
+    z-index: -10;
+    width: 40rem;
+    margin-left: -21rem;
+    overflow: hidden;
+    position: absolute;
+}
+
+.pageimg2 {
+    z-index: -10;
+    width: 40rem;
+    overflow: hidden;
+    position: absolute;
+
+}
+
+
+.sec6--div10 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    /* position: absolute; */
+width: 100%;
+
+}

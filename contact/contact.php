@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KHK TOURS</title>
 
-    <link rel="icon" href="../resources/logo_lg.png"/>
+    <link rel="icon" href="../resources/logo_lg.png" />
     <link rel="stylesheet" href="../Header/header.css">
     <link rel="stylesheet" href="../Footer/footer.css">
     <link rel="stylesheet" href="contact.css" />
@@ -22,18 +22,24 @@
 
     </div> -->
 
-    <section class="contact--sec1">
-        <div class="contact--sec1--div1">
-            <div class="contact--sec1--div2">
-                <!-- <img src="../resources/des/des_banner.jpg" class="contact--banner1"> -->
+    <div class="space1"></div>
+
+    <section class="des--sec1">
+        <div class="des--sec1--div1">
+            <div class="des--sec1--div2">
+                <img src="../resources/des/des_banner1.jpg" class="des--banner1">
 
 
             </div>
-            <div class="contact--sec1--div3">
-                <span class="contact--span1">CONTACT US</span>
+            <div class="des--sec1--div3">
+                <span class="des--span1">CONTACT US</span>
             </div>
         </div>
     </section>
+
+    <div class="sec2--div6">
+        <img src="../resources/pageimg2.png" class="pageimg">
+    </div>
 
     <section class="contact--sec2">
         <div class="contact--sec2--div1">
@@ -55,46 +61,50 @@
                                 </span>
                             </div>
                             <div class="contact--sec2--div7">
-                                <a href="tel:+94 77 798 5644" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/contact/telephone.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">+94&nbsp;(77)&nbsp;361&nbsp;4654</span>
-                                    </div>
-                                </a>
-                                <a href="https://maps.app.goo.gl/WUGj1pvpywaGesZz8" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/contact/placeholder.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">NO&nbsp;16/A&nbsp;Ranawiru Rasika Rukmal Mawatha&nbsp;, Uyanwatta, Matara</span>
-                                    </div>
-                                </a>
-                                <a href="mailto:info@khktours.com" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/contact/email.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">info@khktours.com</span>
-                                    </div>
-                                </a>
+                                <div class="contact--sec2--divExtra">
+                                    <a href="tel:+94 77 798 5644" class="contact--icon--row">
+                                        <div class="contact--sec2--div8--img">
+                                            <img src="../resources/contact/telephone.png" class="contact--img--icon">
+                                        </div>
+                                        <div class="contact--sec2--div8">
+                                            <span class="contatct--sec2--txt3">+94&nbsp;(77)&nbsp;361&nbsp;4654</span>
+                                        </div>
+                                    </a>
+                                    <a href="mailto:info@khktours.com" class="contact--icon--row">
+                                        <div class="contact--sec2--div8--img">
+                                            <img src="../resources/contact/email.png" class="contact--img--icon">
+                                        </div>
+                                        <div class="contact--sec2--div8">
+                                            <span class="contatct--sec2--txt3">info@khktours.com</span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="contact--sec2--divExtra1">
+                                    <a href="https://maps.app.goo.gl/WUGj1pvpywaGesZz8" class="contact--icon--row">
+                                        <div class="contact--sec2--div8--img">
+                                            <img src="../resources/contact/placeholder.png" class="contact--img--icon">
+                                        </div>
+                                        <div class="contact--sec2--div8">
+                                            <span class="contatct--sec2--txt3">NO&nbsp;16/A&nbsp;Ranawiru Rasika Rukmal Mawatha&nbsp;, Uyanwatta, Matara</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                             <div class="contact--sec2--div10">
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://www.facebook.com/khktravel?mibextid=ZbWKwL" class="contact--icon--row"><img src="../resources/socialicon/facebook (1).png"
+                                    <a href="https://www.facebook.com/khktravel?mibextid=ZbWKwL" class="contact--icon--row"><img src="../resources/contact/facebook.png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://www.instagram.com/khktrours?igsh=MTRzYmtsbWc0bDVtMQ==" class="contact--icon--row"><img src="../resources/socialicon/instagram (1).png"
+                                    <a href="https://www.instagram.com/khktrours?igsh=MTRzYmtsbWc0bDVtMQ==" class="contact--icon--row"><img src="../resources/contact/instagram.png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="https://api.whatsapp.com/send?phone=94773614654" class="contact--icon--row"><img src="../resources/socialicon/whatsapp (2).png"
+                                    <a href="https://api.whatsapp.com/send?phone=94773614654" class="contact--icon--row"><img src="../resources/contact/whatsapp.png"
                                             class="contact--img--icon"></a>
                                 </div>
                                 <div class="contact--sec2--div8--img">
-                                    <a href="#" class="contact--icon--row"><img src="../resources/socialicon/tripadvisor (1).png"
+                                    <a href="#" class="contact--icon--row"><img src="../resources/contact/tripadvisor.png"
                                             class="contact--img--icon"></a>
                                 </div>
                             </div>
@@ -121,11 +131,11 @@
                                     <div class="contact--sec2--div18">
                                         <div class="contact--sec2--div19">
                                             <span class="contatct--sec2--txt7">First Name</span>
-                                            <input type="text" class="contact--txtfield" id="name">
+                                            <input type="text" class="contact--txtfield" id="fname">
                                         </div>
                                         <div class="contact--sec2--div19">
                                             <span class="contatct--sec2--txt7">Last Name</span>
-                                            <input type="text" class="contact--txtfield" id="name">
+                                            <input type="text" class="contact--txtfield" id="lname">
                                         </div>
                                     </div>
                                     <div class="contact--sec2--div23">
@@ -135,7 +145,7 @@
                                         </div>
                                         <div class="contact--sec2--div19">
                                             <span class="contatct--sec2--txt7">Email</span>
-                                            <input type="text" class="contact--txtfield" id="name">
+                                            <input type="text" class="contact--txtfield" id="email">
                                         </div>
                                     </div>
                                     <div class="contact--sec2--div23">
@@ -157,11 +167,15 @@
             </div>
             <div class="contact--sec2--div24">
                 <div class="contact--sec2--div25">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3166521328867!2d80.5563884!3d5.951033300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae139005828311b%3A0xdd0e4cb077063998!2sKHK%20Tours!5e0!3m2!1sen!2slk!4v1736124128896!5m2!1sen!2slk" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="contact--map--img"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.3166521328867!2d80.5563884!3d5.951033300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae139005828311b%3A0xdd0e4cb077063998!2sKHK%20Tours!5e0!3m2!1sen!2slk!4v1736124128896!5m2!1sen!2slk" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="contact--map--img"></iframe>
                 </div>
             </div>
         </div>
     </section>
+
+    <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
 
     <!-- Footer -->
     <?php include "../Footer/footer.php"; ?>

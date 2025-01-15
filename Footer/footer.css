@@ -79,12 +79,12 @@
 
 .footer--logo2 {
     width: 2.5rem;
-
 }
 
 .footer--logo2 :hover {
-    /* transform: scale(1.5);
-    color: black; */
+    filter: brightness(1.5);
+    transform: translateX(5px);
+    transition: 0.5s;
 }
 
 .footer--sec1--div5 {
@@ -133,6 +133,12 @@
 
 }
 
+.header--span2:hover {
+    color: #DAEEE1;
+    transform: translateY(-5px);
+    transition: 0.5s;
+}
+
  .footer--sec1--div7{
     width: 100%;
     margin: auto;
@@ -148,9 +154,23 @@
     font-size: 1rem;
     text-align: center;
     font-family: "poppins_bold";
-    color: rgb(255, 255, 255);
+    color: #DAEEE1;
     text-decoration: none;
     margin-top: 0.5rem;
+ }
+
+ .footer--span44{
+    width: 90%;
+    font-size: 1rem;
+    text-align: center;
+    font-family: "poppins_bold";
+    color: #DAEEE1;
+    /* text-decoration: none; */
+    margin-top: 0.5rem;
+ }
+
+ .footer--span44:hover{
+    color: #9aa89f;
  }
 
 @media screen and (max-width:749px) {

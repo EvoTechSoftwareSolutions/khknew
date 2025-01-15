@@ -21,13 +21,30 @@
     <!-- Header -->
 
 
-    <div class="start--div"></div>
+    <!-- <div class="start--div"></div> -->
 
 
     <!-- <div class="space"></div> -->
 
 
+    <div class="space1"></div>
 
+<section class="des--sec1">
+    <div class="des--sec1--div1">
+        <div class="des--sec1--div2">
+            <img src="../resources/des/des_banner4.jpg" class="des--banner1">
+
+
+        </div>
+        <div class="des--sec1--div3">
+            <span class="des--span1">TOURS PACKAGES</span>
+        </div>
+    </div>
+</section>
+
+<div class="sec2--div6">
+    <img src="../resources/pageimg2.png" class="pageimg">
+</div>
 
 
     <section class="tourpack2-sec1">
@@ -938,6 +955,13 @@
 
 
     </section>
+
+
+
+    <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
+
 
     <!-- Footer -->
     <?php include "../Footer/footer.php"; ?>

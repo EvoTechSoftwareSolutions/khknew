@@ -21,7 +21,7 @@
                 <img src="../resources/logo_lg.png" class="header--logo" alt="">
             </div>
             <div class="header--sec1--div3">
-                <a href="../index.php" class="header--text">HOME</a>
+                <a href="../Home/index.php" class="header--text">HOME</a>
                 <a href="../services/services.php" class="header--text">OUR SERVICES</a>
                 <a href="../destinations/des.php" class="header--text">DESTINATIONS</a>
 
@@ -69,7 +69,7 @@
 
             </div>
             <div class="header--sec3--div3">
-                <a href="../index.php" class="header--text3">HOME</a>
+                <a href="../Home/index.php" class="header--text3">HOME</a>
                 <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
                 <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
                 <div class="dropdown">
@@ -108,7 +108,7 @@
                     <a href="#home"><img src="../resources/logo_lg.png" class="logo1"></a>
                     <div class="topnav2">
                         <div id="myLinks" class="topnav3">
-                            <a href="../index.php" class="header--text3">HOME</a>
+                            <a href="../Home/index.php" class="header--text3">HOME</a>
                             <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
                             <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
                             <a href="../tour/tourpack.php" class="header--text3">TOUR PACKAGES</a>

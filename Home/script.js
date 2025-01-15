@@ -72,8 +72,8 @@ $('.testimonials-container').owlCarousel({
     autoplayTimeout:6000,
     margin:10,
     nav:true,
-    navText:["<i class='fa-solid fa-arrow-left'></i>",
-        "<i class='fa-solid fa-arrow-right'></i>"],
+    navText:["<i class=''>&lt;</i>",
+        "<i class=''>&gt;</i>"],
 
     responsive:{
         0:{

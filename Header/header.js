@@ -24,20 +24,20 @@ window.addEventListener("scroll", function () {
 
   headers.forEach(header => {
     if (window.scrollY > 0) {
-      header.style.backgroundColor = "white";
-      header.style.color = "black";
+      header.style.backgroundColor = "#DAEEE1";
+      header.style.color = "#023213";
 
       // Update text colors within the header
       header.querySelectorAll(".header--text,.header--text3, .dropbtn").forEach(element => {
-        element.style.color = "black";
+        element.style.color = "#023213";
       });
     } else {
       header.style.backgroundColor = "transparent";
-      header.style.color = "white";
+      header.style.color = "#DAEEE1";
 
       // Revert text colors within the header
       header.querySelectorAll(".header--text,.header--text3, .dropbtn").forEach(element => {
-        element.style.color = "white";
+        element.style.color = "#DAEEE1";
       });
     }
   });

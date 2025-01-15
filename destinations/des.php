@@ -31,7 +31,9 @@
         </div>
     </section>
 
-
+    <div class="sec2--div6">
+        <img src="../resources/pageimg2.png" class="pageimg">
+    </div>
     <!-- start destination  -->
 
     <section class=" des--sec5">
@@ -493,8 +495,9 @@
                 <div class="des--sec5--div14">
 
                     <div class="des--sec5--div17">
-                        <div class="des--sec5--div18"><img src="../resources/des/seegiriya.png" class="des--sec5--img2">
-                        </div>
+                        <!-- <div class="des--sec5--div18"> -->
+                            <img src="../resources/des/seegiriya.png" class="des--sec5--img2">
+                        <!-- </div> -->
                         <div class="des--sec5--div15">
                             <span class="des--sec5--span3">Sigiriya Rock Fortress</span>
                             <span class="des--sec5--span4">
@@ -1179,6 +1182,10 @@
 
 
     </section>
+
+    <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
 
     <!-- end destination  -->
 

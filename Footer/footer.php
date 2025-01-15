@@ -57,7 +57,7 @@
                 </div>
 
                 <div class="footer--sec1--div6">
-                    <a href="../index.php" class="header--span2">HOME</a>
+                    <a href="../Home/index.php" class="header--span2">HOME</a>
                     <a href="../services/services.php" class="header--span2">OUR SERVICES</a>
                     <a href="../destinations/des.php" class="header--span2">DESTINATIONS</a>
                     <a href="../tour/tourpack.php" class="header--span2">TOUR PACKAGES</a>
@@ -75,7 +75,7 @@
         </div>
         <div class="footer--sec1--div7">
             <span class="footer--span4">Copyright © 2025 All Rights Reserved by 
-                <a href="https://evotechsoftwaresolutions.com" class="footer--span4">
+                <a href="https://evotechsoftwaresolutions.com" class="footer--span44">
                     Evon Technologies Software Solutions.
                 </a>
             </span>

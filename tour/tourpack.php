@@ -22,14 +22,33 @@
 
     <!-- <div class="space"></div> -->
 
-    <div class="start--div"></div>
+    <!-- <div class="start--div"></div> -->
+
+    <div class="space1"></div>
+
+<section class="des--sec1">
+    <div class="des--sec1--div1">
+        <div class="des--sec1--div2">
+            <img src="../resources/des/des_banner3.jpg" class="des--banner1">
+
+
+        </div>
+        <div class="des--sec1--div3">
+            <span class="des--span1">TOURS PACKAGES</span>
+        </div>
+    </div>
+</section>
+
+<div class="sec2--div6">
+    <img src="../resources/pageimg2.png" class="pageimg">
+</div>
 
     <!-- <div class="banner">
         <img src="../resources/pack.jpg" class="bannerimg">
     </div> -->
     <section class="tourpack-sec1" id="shutter">
         <div class="home--sec4--div1">
-            <span class="home--sec4--div1--heading1">Shutter TOURS</span><br>
+            <span class="home--sec4--div1--heading1">SHUTTER TOURS</span><br>
             <!-- <span class="home--sec4--div1--heading2">4-Day Packages</span> -->
         </div>
 
@@ -966,6 +985,13 @@
 
 
     </section>
+
+
+
+    <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
+
 
     <!-- Footer -->
     <?php include "../footer/footer.php"; ?>

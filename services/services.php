@@ -17,7 +17,27 @@
     <?php include "../Header/header.php"; ?>
     <!-- Header -->
 
-    <div class="space"></div>
+    <!-- <div class="space"></div> -->
+
+    <div class="space1"></div>
+
+    <section class="des--sec1">
+        <div class="des--sec1--div1">
+            <div class="des--sec1--div2">
+                <img src="../resources/des/des_banner2.jpg" class="des--banner1">
+
+
+            </div>
+            <div class="des--sec1--div3">
+                <span class="des--span1">SERVICES</span>
+            </div>
+        </div>
+    </section>
+
+    <div class="sec2--div6">
+        <img src="../resources/pageimg2.png" class="pageimg">
+    </div>
+
     <section class="ser--sec1">
 
         <div class="ser--sec1--div1">
@@ -112,7 +132,7 @@
                     <div class="ser--sec3--div4"><img src="../resources/ser/vehi.jpg" class="ser--img1"></div>
 
                     <div class="ser--sec3--div5">
-                        <span class=" ser--span2">
+                        <span class="ser--span2">
                             Travel in style and comfort with KHK Tours. We provide a fleet of modern, well-maintained
                             vehicles to suit all your travel needs in Sri Lanka. From spacious vans for family trips to
                             luxury cars for a more premium experience, our vehicles are equipped with air-conditioning,
@@ -127,6 +147,9 @@
                 </div>
 
                 <br>
+                <br>
+                <!-- <br>
+                <br> -->
 
                 <div class="ser--sec3--div6">
                     <br><span class="ser--span1">Comfortable and Reliable Vehicles for Your Journey with KHK Tours</span>
@@ -256,7 +279,9 @@
 
 
 
-
+        <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
 
         <br>
         <br>

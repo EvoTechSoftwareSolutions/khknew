@@ -49,7 +49,7 @@ body {
 
 .header--sec1--div1, .header--sec2--div1, .header--sec3--div1 {
     background-color: transparent;
-    color: white;
+    color: #DAEEE1;
     transition: background-color 0.3s, color 0.3s;
   }
   
@@ -74,6 +74,7 @@ body {
 .header--logo {
     width: 7rem;
     margin-left: 2rem;
+    filter: brightness(1);
 }
 
 .header--sec1--div3 {
@@ -88,12 +89,16 @@ body {
 .header--text {
     text-decoration: none;
     font-family: "poppins_bold";
-    color: rgb(255, 255, 255);
+    color: #DAEEE1;
     padding: 0.3rem;
     letter-spacing: 0.08rem;
     font-size: 0.8 rem;
 
 
+}
+
+.header--text:hover {
+    color: #063617;
 }
 
 .header--sec1--div4 {
@@ -107,15 +112,21 @@ body {
 .header--text2 {
     text-decoration: none;
     font-family: "poppins_extra";
-    color: rgb(255, 255, 255);
+    color: #DAEEE1;
     padding: 1rem;
     /* font-size: 1.1rem; */
     background-color: #023213;
-    
     border-radius: 38px;
     width: 7rem;
     text-align: center;
     letter-spacing: 0.08rem;
+}
+
+.header--text2:hover {
+    background-color: transparent;
+    color: #648068;
+    border: solid 3px #648068;
+    filter: brightness(1);
 }
 
 .dropdown {
@@ -129,12 +140,12 @@ body {
 
     border: none;
     outline: none;
-    color: white;
+    color: #DAEEE1;
     /* padding: 14px 16px; */
     background-color: transparent;
     text-decoration: none;
     font-family: "poppins_bold";
-    color: rgb(255, 255, 255);
+    /* color: rgb(255, 255, 255); */
     padding: 0.3rem;
     letter-spacing: 0.08rem;
     font-size: 0.9rem;
@@ -144,7 +155,7 @@ body {
 
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #DAEEE1;
     min-width: fit-content;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
@@ -152,7 +163,7 @@ body {
 
 .dropdown-content a {
     float: none;
-    color: black;
+    color: #023213;
     font-family: "poppins_bold";
 
     font-size: 0.9rem;
@@ -165,12 +176,12 @@ body {
 .topnav a:hover,
 .dropdown:hover .dropbtn {
     /* background-color: #555; */
-    color: white;
+    color: #DAEEE1;
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #023213;
+    color: #DAEEE1;
 }
 
 .dropdown:hover .dropdown-content {
@@ -227,7 +238,7 @@ body {
         margin-left: 17vh;
         width: 7rem;
         display: flex;
-
+        filter: brightness(1);
     }
 
     .header--sec3--div3 {
@@ -245,7 +256,7 @@ body {
         text-decoration: none;
         font-family: "poppins_regular";
         font-weight: 600;
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         letter-spacing: 0.08rem;
         font-size: 0.8rem;
 
@@ -266,7 +277,7 @@ body {
     .header--text2 {
         text-decoration: none;
         font-family: "poppins_extra";
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         /* padding: 0.rem; */
         font-size: 0.8rem;
       
@@ -324,7 +335,7 @@ body {
     .header--text {
         text-decoration: none;
         font-family: "poppins_bold";
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         padding: 0.3rem;
         letter-spacing: 0.08rem;
         font-size: 0.9rem;
@@ -343,7 +354,7 @@ body {
     .header--text2 {
         text-decoration: none;
         font-family: "poppins_extra";
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         /* padding: rem; */
         font-size: 0.9rem;
     
@@ -376,7 +387,7 @@ body {
     .header--header--text {
         text-decoration: none;
         font-family: "poppins_bold";
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         padding: 0.3rem;
         letter-spacing: 0.08rem;
         font-size: 0.9rem;
@@ -395,7 +406,7 @@ body {
     .header--text2 {
         text-decoration: none;
         font-family: "poppins_extra";
-        color: rgb(255, 255, 255);
+        color: #DAEEE1;
         /* padding: rem; */
         font-size: 0.9rem;
     
@@ -444,7 +455,7 @@ body {
     padding: 0%;
     /* background-color: #555; */
     height: fit-content;
-    color: white;
+    color: #DAEEE1;
     border-radius: 10px;
   }
   
@@ -459,12 +470,12 @@ body {
   }
   
   .topnav1 a {
-    color: white;
+    color: #023213;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
     display: block;
-    font-family: "poppins_regular";
+    font-family: "poppins_bold";
    
   }
   
@@ -477,13 +488,13 @@ body {
   }
 
   .topnav3{
-    background-color: #6e6e6e;
+    background-color: #DAEEE1;
     text-align: center;
   }
   
   .topnav3  a:hover {
-    background-color: #aca8a8;
-    color: black;
+    background-color: #023213;
+    color: #DAEEE1;
   }
   
   /* .active {

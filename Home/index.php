@@ -93,8 +93,9 @@
                 </div>
                 <!-- button arrows -->
                 <div class="arrows">
-                    <button id="prev"> < </button>
-                    <button id="next"> ></button>
+                    <button id="prev">
+                        < </button>
+                            <button id="next"> ></button>
                 </div>
                 <!-- thumbnail -->
                 <div class="thumbnail">
@@ -156,7 +157,6 @@
     <!-- welcome start -->
     <div class="sec2--div6">
         <img src="../resources/pageimg2.png" class="pageimg">
-
     </div>
 
     <section class="sec2">
@@ -189,7 +189,7 @@
     <!-- about us start  -->
 
 
-    <section class="sec3">
+    <section class="home--sec3">
         <div class="sec3--div1">
             <div class="sec3--div6">
                 <div class="sec3--div7">
@@ -221,7 +221,7 @@
     <br>
 
     <!-- services start  -->
-    <section class="sec4">
+    <section class="home--sec4">
 
         <div class="sec4--div1">
 
@@ -272,7 +272,7 @@
 
     <!-- start destination  -->
 
-    <section class=" sec5">
+    <section class="sec5">
 
 
 
@@ -320,7 +320,8 @@
             </div>
 
             <div class="sec5--div9">
-                <a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a></div>
+                <a href="../destinations/des.php" class="sec5--button1">VIEW MORE</a>
+            </div>
 
         </div>
 
@@ -338,7 +339,9 @@
 
                 <div class="sec5--div14">
                     <div class="sec5--div17">
+                        <!-- <div class="sec5--img--div"> -->
                         <img src="../resources/des/seegiriya.png" class="sec5--img2">
+                        <!-- </div> -->
                         <div class="sec5--div15">
                             <span class="sec5--span3">Sigiriya Rock Fortress</span>
                             <span class="sec5--span4">
@@ -381,9 +384,10 @@
 
 
                 </div>
+            </div>
+        </div>
 
-
-                <br>
+        <br>
 
 
 
@@ -396,7 +400,7 @@
 
     <!-- start packages  -->
 
-    <section class="sec6">
+    <section class="home--sec6">
         <div class="sec6--div1">
 
 
@@ -416,17 +420,17 @@
                             landmarks, vibrant neighborhoods, and hidden gems. Immerse yourself in each destination's
                             unique culture, history, and local flavor, making every tour a journey of discovery and
                             delight.</span>
-                        <div class="sec6--div9"><a href="#" class="sec6--button1">VIEW MORE</a></div>
+                        <div class="sec6--div9"><a href="../tour/tourpack.php#city" class="sec6--button1">VIEW MORE</a></div>
                     </div>
-                    
+<br>
                     <hr class="sec6--hr1">
-
+<br>
                     <div class="sec6--div8">
                         <span class="sec6--span1">SHUTTER TOURS</span>
                         <span class="sec6--span2">Embark on unforgettable Shutter Tours with us and discover the vibrant
                             soul of each destination. From iconic landmarks to hidden gems, our expert guides ensure a
                             journey filled with exploration, learning, and memorable experiences.</span>
-                        <div class="sec6--div9"><a href="#" class="sec6--button1">VIEW MORE</a></div>
+                        <div class="sec6--div9"><a href="../tour/tourpack.php#shutter" class="sec6--button1">VIEW MORE</a></div>
                     </div>
 
                 </div>
@@ -435,15 +439,14 @@
             </div>
 
         </div>
-        <div class="sec6--div10">
-            <img src="../resources/pageimg2.png" class="pageimg2">
-
-        </div>
+        
 
 
 
     </section>
-
+    <div class="sec6--div10">
+            <img src="../resources/pageimg2.png" class="pageimg2">
+        </div>
 
     <!-- end packages  -->
 
@@ -452,7 +455,7 @@
 
     <!-- start testimonials -->
 
-    <section>
+    <section class="home--sec7--sec">
         <div class="home--sec7">
 
             <div class="home--sec7--div1">
