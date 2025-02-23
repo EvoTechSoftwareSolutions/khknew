@@ -60,7 +60,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Colombo.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content1">
+                <div class="productCard--content collapse" id="card--content20">
                     <span class="card1--heading1">Package 1 : Cultural Escape</span>
                     <span class="card1--heading2">
                         <ul>
@@ -92,8 +92,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(1);" id="card--showMore1">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(1);" id="card--showLess1" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(20);" id="card--showMore20">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(20);" id="card--showLess20" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
 
             </article>
@@ -102,7 +102,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/dalada.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content2">
+                <div class="productCard--content collapse" id="card--content21">
                     <span class="card1--heading1">Package 2 : Scenic Adventure</span>
                     <span class="card1--heading2">
                         <ul>
@@ -134,8 +134,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(2);" id="card--showMore2">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(2);" id="card--showLess2" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(21);" id="card--showMore21">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(21);" id="card--showLess21" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -143,7 +143,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Pinnawala Elephant Orphanage.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content3">
+                <div class="productCard--content collapse" id="card--content22">
                     <span class="card1--heading1">Package 3 : Wildlife and Nature</span>
                     <span class="card1--heading2">
                         <ul>
@@ -176,8 +176,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(3);" id="card--showMore3">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(3);" id="card--showLess3" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(22);" id="card--showMore22">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(22);" id="card--showLess22" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -186,7 +186,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Bentota Beach.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content4">
+                <div class="productCard--content collapse" id="card--content23">
                     <span class="card1--heading1">Package 4 : Beach Bliss</span>
                     <span class="card1--heading2">
                         <ul>
@@ -219,8 +219,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(4);" id="card--showMore4">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(4);" id="card--showLess4" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(23);" id="card--showMore23">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(23);" id="card--showLess23" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -229,7 +229,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Nuwara Eliya.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content5">
+                <div class="productCard--content collapse" id="card--content24">
                     <span class="card1--heading1"> Kandy - Nuwara-Eliya - Colombo Tour</span>
                     <span class="card1--heading2">
                         <ul>
@@ -321,8 +321,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(5);" id="card--showMore5">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(5);" id="card--showLess5" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(24);" id="card--showMore24">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(24);" id="card--showLess24" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -341,7 +341,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Ancient City of Polonnaruwa.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content6">
+                <div class="productCard--content collapse" id="card--content25">
                     <span class="card1--heading1">Package 1 : Cultural Wonders </span>
                     <span class="card1--heading2">
                         <ul>
@@ -377,8 +377,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(6);" id="card--showMore6">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(6);" id="card--showLess6" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(25);" id="card--showMore25">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(25);" id="card--showLess25" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -387,7 +387,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Gregory Lake.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content7">
+                <div class="productCard--content collapse" id="card--content26">
                     <span class="card1--heading1"> Package 2: Adventure and Wildlife</span>
                     <span class="card1--heading2">
                         <ul>
@@ -422,8 +422,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(7);" id="card--showMore7">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(7);" id="card--showLess7" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(26);" id="card--showMore26">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(26);" id="card--showLess26" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -431,7 +431,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/Mirissa Beach.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content8">
+                <div class="productCard--content collapse" id="card--content27">
                     <span class="card1--heading1">Package 3: Beach and Wellness</span>
                     <span class="card1--heading2">
                         <ul>
@@ -467,8 +467,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(8);" id="card--showMore8">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(8);" id="card--showLess8" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(27);" id="card--showMore27">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(27);" id="card--showLess27" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -478,7 +478,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/train.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content9">
+                <div class="productCard--content collapse" id="card--content28">
                     <span class="card1--heading1"> Package 4: Scenic Exploration</span>
                     <span class="card1--heading2">
                         <ul>
@@ -511,8 +511,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(9);" id="card--showMore9">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(9);" id="card--showLess9" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(28);" id="card--showMore28">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(28);" id="card--showLess28" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -536,7 +536,7 @@
                     <div class="productCard--img">
                         <img src="../resources/des/sigiriya.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content10">
+                    <div class="productCard--content collapse" id="card--content29">
                         <span class="card1--heading1">Package 1: Heritage and Wildlife</span>
                         <span class="card1--heading2">
                             <ul>
@@ -573,15 +573,15 @@
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(10);" id="card--showMore10">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(10);" id="card--showLess10" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(29);" id="card--showMore29">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(29);" id="card--showLess29" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
                 <article class="productCard">
                     <div class="productCard--img">
                         <img src="../resources/des/Minneriya National Park.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content11">
+                    <div class="productCard--content collapse" id="card--content30">
                         <span class="card1--heading1">Package 2: Scenic Retreat </span>
                         <span class="card1--heading2">
                             <ul>
@@ -619,8 +619,8 @@
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(11);" id="card--showMore11">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(11);" id="card--showLess11" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(30);" id="card--showMore30">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(30);" id="card--showLess30" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
 
@@ -630,7 +630,7 @@
                     <div class="productCard--img">
                         <img src="../resources/des/mirissa.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content12">
+                    <div class="productCard--content collapse" id="card--content31">
                         <span class="card1--heading1">Package 3: Wellness and Beaches</span>
                         <span class="card1--heading2">
                             <ul>
@@ -668,8 +668,8 @@
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(12);" id="card--showMore12">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(12);" id="card--showLess12" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(31);" id="card--showMore31">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(31);" id="card--showLess31" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
 
@@ -679,7 +679,7 @@
                     <div class="productCard--img">
                         <img src="../resources/des/wildlife.jpg" class="card1">
                     </div>
-                    <div class="productCard--content collapse" id="card--content13">
+                    <div class="productCard--content collapse" id="card--content32">
                         <span class="card1--heading1"> Package 4: Ultimate Adventure</span>
                         <span class="card1--heading2">
                             <ul>
@@ -717,8 +717,8 @@
                         </div>
                     </div>
                     <div class="todo--readmoreRow">
-                        <button class="todo--readmore" onclick="readmore(13);" id="card--showMore13">Read&nbsp;More&nbsp;&#11167;</button>
-                        <button class="todo--readmore" onclick="readless(13);" id="card--showLess13" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                        <button class="todo--readmore" onclick="readmore(32);" id="card--showMore32">Read&nbsp;More&nbsp;&#11167;</button>
+                        <button class="todo--readmore" onclick="readless(32);" id="card--showLess32" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                     </div>
                 </article>
 
@@ -738,7 +738,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/srilanka.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content14">
+                <div class="productCard--content collapse" id="card--content33">
                     <span class="card1--heading1">Package 1: Comprehensive Sri Lanka Exploration </span>
                     <span class="card1--heading2">
                         <ul>
@@ -781,8 +781,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(14);" id="card--showMore14">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(14);" id="card--showLess14" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(33);" id="card--showMore33">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(33);" id="card--showLess33" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -792,7 +792,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/tea.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content15">
+                <div class="productCard--content collapse" id="card--content34">
                     <span class="card1--heading1"> Package 2: Cultural and Scenic Highlights</span>
                     <span class="card1--heading2">
                         <ul>
@@ -834,15 +834,15 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(15);" id="card--showMore15">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(15);" id="card--showLess15" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(34);" id="card--showMore34">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(34);" id="card--showLess34" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
             <article class="productCard">
                 <div class="productCard--img">
                     <img src="../resources/des/wild.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content16">
+                <div class="productCard--content collapse" id="card--content35">
                     <span class="card1--heading1">Package 3: Wildlife and Coastal Delights </span>
                     <span class="card1--heading2">
                         <ul>
@@ -885,8 +885,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(16);" id="card--showMore16">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(16);" id="card--showLess16" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(35);" id="card--showMore35">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(35);" id="card--showLess35" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -894,7 +894,7 @@
                 <div class="productCard--img">
                     <img src="../resources/des/kithulgala.jpg" class="card1">
                 </div>
-                <div class="productCard--content collapse" id="card--content17">
+                <div class="productCard--content collapse" id="card--content36">
                     <span class="card1--heading1"> Package 4: Adventure and Relaxation</span>
                     <span class="card1--heading2">
                         <ul>
@@ -936,8 +936,8 @@
                     </div>
                 </div>
                 <div class="todo--readmoreRow">
-                    <button class="todo--readmore" onclick="readmore(17);" id="card--showMore17">Read&nbsp;More&nbsp;&#11167;</button>
-                    <button class="todo--readmore" onclick="readless(17);" id="card--showLess17" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
+                    <button class="todo--readmore" onclick="readmore(36);" id="card--showMore36">Read&nbsp;More&nbsp;&#11167;</button>
+                    <button class="todo--readmore" onclick="readless(36);" id="card--showLess36" hidden>Show&nbsp;Less&nbsp;&#11165;</button>
                 </div>
             </article>
 
@@ -969,7 +969,8 @@
 
     <script src="../Header/header.js"></script>
     <script src="../Footer/footer.js"></script>
-    <script src="tourpack2.js"></script>
+    <script src="../tourpack/tourpack2.js"></script>
+    <script src="../tour/tourpack.js"></script>
 </body>
 
 </html>

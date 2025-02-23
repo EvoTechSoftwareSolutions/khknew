@@ -259,10 +259,15 @@ body {
         color: #DAEEE1;
         letter-spacing: 0.08rem;
         font-size: 0.8rem;
+    }
 
-
-
-
+    .header--text3--sm {
+        text-decoration: none;
+        font-family: "poppins_regular";
+        font-weight: 600;
+        color: #023213;
+        letter-spacing: 0.08rem;
+        font-size: 0.8rem;
     }
 
     .header--sec3--div4 {

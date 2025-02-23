@@ -297,7 +297,7 @@
                         <ul>
                             <li><b>Package&nbsp;:&nbsp;</b>6 Hour Private Tour</li> <br>
                             <li><b>Start&nbsp;:&nbsp;</b>You can schedule this as per your wish</li> <br>
-                            <li><b>Experience&nbsp;:&nbsp;</b>You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.</li> <br>
+                            <li><b>Experience&nbsp;:&nbsp;</b>You can join us when visiting Mirissa city where you can get a boat ride to see crocodile and bird along with memories that you can never experience in a day in the life of Nilwala River located in Matara City and Coconut Tree Hill, Parrot Rock, Secret Beach.</li> <br>
 
                         </ul>
                         <ul>

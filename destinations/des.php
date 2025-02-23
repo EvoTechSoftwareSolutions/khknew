@@ -349,7 +349,7 @@
                 <div class="des--sec5--div7">
                     <div class="des--sec5--div8">
                         <span class="des--sec5--span1">Hikkaduwa Beach </span>
-                        <div class="des--sec5--div6"><img src="../resources/des/Hikkaduwa Beach.jpg"
+                        <div class="des--sec5--div6"><img src="../resources/des/Hikkaduwa_Beach.jpg"
                                 class="des--sec5--img1"></div>
                         <span class="des--sec5--span2">Hikkaduwa Beach, located on Sri Lanka’s southwest coast, is a vibrant destination known for its coral reefs and lively atmosphere. The beach offers a range of activities, including snorkeling, diving, and surfing. The nearby Hikkaduwa Coral Sanctuary is home to colorful marine life and is perfect for underwater exploration. The town also features bustling markets, beachfront cafes, and a vibrant nightlife scene. Hikkaduwa’s energetic vibe, combined with its natural beauty, makes it a popular spot for both adventure seekers and beach lovers.
                         </span>

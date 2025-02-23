@@ -247,6 +247,7 @@ body{
     font-family:"poppinsbold" ;
     font-size: 1.5rem;
     color: #023213;
+    text-transform: uppercase;
   }
   
   .card1--heading2{

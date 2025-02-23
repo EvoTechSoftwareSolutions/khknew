@@ -108,12 +108,12 @@
                     <a href="#home"><img src="../resources/logo_lg.png" class="logo1"></a>
                     <div class="topnav2">
                         <div id="myLinks" class="topnav3">
-                            <a href="../Home/index.php" class="header--text3">HOME</a>
-                            <a href="../services/services.php" class="header--text3">OUR SERVICES</a>
-                            <a href="../destinations/des.php" class="header--text3">DESTINATIONS</a>
-                            <a href="../tour/tourpack.php" class="header--text3">TOUR PACKAGES</a>
-                            <a href="../tourpack/tourpack2.php" class="header--text3">SPECIAL TOUR PACKAGES</a>
-                            <a href="../contact/contact.php" class="header--text3">CONTACT US</a>
+                            <a href="../Home/index.php" class="header--text3--sm">HOME</a>
+                            <a href="../services/services.php" class="header--text3--sm">OUR SERVICES</a>
+                            <a href="../destinations/des.php" class="header--text3--sm">DESTINATIONS</a>
+                            <a href="../tour/tourpack.php" class="header--text3--sm">TOUR PACKAGES</a>
+                            <a href="../tourpack/tourpack2.php" class="header--text3--sm">SPECIAL TOUR PACKAGES</a>
+                            <a href="../contact/contact.php" class="header--text3--sm">CONTACT US</a>
                         </div>
                         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                             <img src="../resources/menus1.png " class="logo2">
