@@ -77,7 +77,7 @@
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                    <a href="../tour/tourpack.php#shutter">SHUTTER TOUR</a>
+                        <a href="../tour/tourpack.php#shutter">SHUTTER TOUR</a>
                         <a href="../tour/tourpack.php#city">CITY TOURS</a>
                         <a href="../tour/tourpack.php#safari">SAFARI TOURS</a>
                         <a href="../tour/tourpack.php#animal">ANIMAL WATCHING</a>
@@ -104,7 +104,7 @@
             <div class="mobile-container">
 
                 <!-- Top Navigation Menu -->
-                <div class="topnav1">
+                <div class="topnav1" id="navbar">
                     <a href="#home"><img src="../resources/logo_lg.png" class="logo1"></a>
                     <div class="topnav2">
                         <div id="myLinks" class="topnav3">
@@ -116,10 +116,11 @@
                             <a href="../contact/contact.php" class="header--text3--sm">CONTACT US</a>
                         </div>
                         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                            <img src="../resources/menus1.png " class="logo2">
+                            <img src="../resources/menus1.png" class="logo2">
                         </a>
                     </div>
                 </div>
+
 
 
 

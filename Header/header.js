@@ -14,6 +14,8 @@ function myFunction() {
   } else {
     x.style.display = "block";
   }
+  var navbar = document.getElementById("navbar");
+  navbar.classList.toggle("active");  // This toggles the red background and dropdown visibility
 }
 
 
@@ -42,3 +44,7 @@ window.addEventListener("scroll", function () {
     }
   });
 });
+
+
+
+

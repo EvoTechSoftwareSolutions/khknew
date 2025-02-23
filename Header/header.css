@@ -468,7 +468,12 @@ body {
     overflow: hidden;
     background-color:transparent;
     position: relative;
+    transition: background-color 0.3s ease;
   }
+
+  .topnav1.active {
+    background-color: #DAEEE1;
+}
   
   .topnav1 #myLinks {
     display: none;
