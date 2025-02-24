@@ -620,7 +620,7 @@
                                 <li>Hotel pickup and drop off</li>
                                 <li>4×4 Luxury safari Jeep</li>
                                 <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                               
 
                             </ul>
                             <ul>
@@ -669,7 +669,7 @@
                                 <li>Hotel pickup and drop off</li>
                                 <li>4×4 Luxury safari Jeep</li>
                                 <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                        
 
                             </ul>
                             <ul>
@@ -719,7 +719,7 @@
                                 <li>Hotel pickup and drop off</li>
                                 <li>4×4 Luxury safari Jeep</li>
                                 <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                          
 
                             </ul>
                             <ul>
@@ -769,7 +769,7 @@
                                 <li>Hotel pickup and drop off</li>
                                 <li>4×4 Luxury safari Jeep</li>
                                 <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                
 
                             </ul>
                             <ul>
@@ -818,7 +818,7 @@
                                 <li>Hotel pickup and drop off</li>
                                 <li>4×4 Luxury safari Jeep</li>
                                 <li>Safari Jeep Driver with extensive experience</li>
-                                <li>Lunch from culture village (Cart tour/ Boat tour)</li>
+                      
 
                             </ul>
                             <ul>
