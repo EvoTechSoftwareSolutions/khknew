@@ -198,7 +198,6 @@
                         <ul>
                             <li>Fresh fruit platter</li>
                             <li>Water bottles during tour</li>
-
                         </ul>
 
 
